@@ -1,0 +1,273 @@
+---
+{"dg-publish":true,"permalink":"/00-home/filosofia/","noteIcon":""}
+---
+
+- ![cover_F.png|200](/img/user/02%20Image/cover_F.png)
+## Libros Filosofía
+| Name                                                                           | Autor                                        | Editorial                                                                      |
+| ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[11 Áreas ⚙/02 Biblioteca/Así habló Zaratustra\|Así habló Zaratustra]]     | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Vlacabo Hnos.\|📔 Vlacabo Hnos.]] |
+| [[11 Áreas ⚙/02 Biblioteca/Ecce Homo\|Ecce Homo]]                           | [[Friedrich Nietzsche\|Friedrich Nietzsche]] | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Alba\|📔 Alba]]                   |
+| [[11 Áreas ⚙/02 Biblioteca/El pobre y el otro\|El pobre y el otro]]         | [[Felipe Zegarra\|Felipe Zegarra]]           | [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 PUCP\|📔 PUCP]]                   |
+| [[11 Áreas ⚙/02 Biblioteca/Filosofía para médicos\|Filosofía para médicos]] | [[Mario Bunge\|Mario Bunge]]                 | [[Editorial Gedisa\|Editorial Gedisa]]                                         |
+
+{ .block-language-dataview}
+
+- [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Grandes Pensadores Gredos\|El Comercio - Grandes Pensadores Gredos]]
+- [[11 Áreas ⚙/02 Biblioteca/Colección - Aprender a pensar\|Colección - Aprender a pensar]]
+- [[11 Áreas ⚙/02 Biblioteca/Colecciones/El Comercio - Descubrir la filosofía\|El Comercio - Descubrir la filosofía]]
+## Autor - Filosofía
+### Filosofía antigua
+- Filósofos presocráticos
+	- Escuela de Mileto
+		- Tales de Mileto
+		- Anaximandro
+		- Anaxímedes de Mileto
+	- Pitagóricos
+		- Pitágoras
+		- Filolao
+		- Alcmeón de Crotona
+		- Arquitas
+	- Heráclito
+	- Escuela Eleática
+		- Jenófanes de Colofón
+		- Parménides
+		- Zenón de Elea
+		- Meliso de Samos
+	- Pluralistas
+		- Empédocles
+		- Anaxágoras
+	- Atomistas
+		- Leucipo de Mileto
+		- Demócrito
+		- Metrodoro de Quíos
+	- Ferécides de Siros
+	- Sofistas
+		- Protágoras
+		- Gorgias
+		- Antifonio
+		- Pródico
+		- Hipias 
+		- Trasímaco
+		- Calicles
+		- Critias
+		- Licofrón
+	- Diógenes de Apolonia
+- Filósofos griegos clásicos
+	- Sócrates
+	- Euclides de Megara
+	- Antístenes
+	- Aristipo
+	- Platón
+	- Eupeusipo
+	- Diógenes de Sinope
+	- Xenócrates
+	- Aristóteles
+	- Estilpón de Mégara
+	- Teofrasto
+- Filosofía helenística
+	- Pirrón
+	- Epicuro
+	- Metrodoro de Lampsaco (el joven)
+	- Zenón de Citio
+	- Cleantes
+	- Timón
+	- Arcesilao
+	- Menipo
+	- Arquímedes
+	- Crisipo de Solos
+	- Carneades
+	- Clitómaco
+	- Metrodoro de Estratónicea
+	- Filón de Larisa
+	- Posidonio
+	- Antíoco de Ascalón
+	- Enesidemo
+	- Agripa
+- Filosofía romana
+	- Cicerón
+	- Lucrecio
+	- Séneca el Jóven
+	- Musonio Rufo
+	- Plutarco
+	- Epicteto
+	- Favorinio
+	- Marco Aurelio
+	- Clemente de Alejandría
+	- Alcino
+	- Sexto Empírico
+	- Alejandro de Afrodisias
+	- Armonio Saccas
+	- Plotino
+	- Porfirio
+	- Jámblico
+	- Tamistio
+	- Ambrosio
+	- Agustín de Hipona
+	- Proclus
+	- Damascio
+	- Boecio
+	- Simplicio de Cilicia
+	- Juan Filoponio
+### Filosofía medieval
+- Patrística
+	- Patrística griega
+		- San Pablo
+		- Justino de Flavia
+		- Clemente de Alejandría
+		- Orígenes
+		- Gregorio de Nisa
+		- Hipólito de Antioquia
+		- Ireneo de Lyon
+		- Pseudo Dionisio
+		- San Basilio de Cesarea
+		- San Juan Crisóstomo
+		- Osio de Córdoba
+		- San Atanasio
+	- Patrística Latina
+		- Patrología latina
+		- Tertuliano
+		- Lactancio
+		- Agustín de Hipona
+		- Clemente Romano
+	- Mario Victorino
+	- Boecio
+	- Isidoro de Sevilla
+	- San Agustín de Hipona
+	- Juan Escoto Erígena
+- Escolástica
+	- Preescolástica
+		- Severino Boecio
+		- Juan Escoto Erígena
+		- Gerberto de Aurillac
+		- Casiodoro
+		- San Isidoro
+	- Escolástica inicial
+		- Anselmo de Canterbury
+		- Pedro Abelardo
+		- Escuela de Chartres
+		- Hugo San Víctor
+	- Alta escolástica
+		- Alberto Magno
+		- Tomás de Aquino
+		- Buenaventura de Fidanza
+		- Pedro Hispano
+	- Baja escolástica
+		- Juan Duns Escoto
+		- Guillermo de Ockham
+	- Segundo escolasticismo
+		- Francisco Suárez
+		- Hugo Grocio
+	- Neoescolástica
+		- Jacques Maritain
+		- Étienne Gilson
+		- Désire Joseph Mercier
+		- Desiderio Nys
+		- A. Farges
+		- Tomasso Zigliara
+		- Fernand van Steenberghen
+		- Leo Elders
+		- M. Grabmann
+		- Armand Maurer
+		- Charles de Koninck
+		- James A. Weisheipl
+		- Jean-Pierre Torrell
+		- Josef Pieper
+		- Pierre Mandonnet
+		- A. D. Sertillanges
+		- Reginaldo Garrigou-Lagrange
+		- Odon Lottin OSB
+		- Gallus M. Manser
+		- Cornelio Fabro
+		- John F. Wippel
+### Filosofía islámica
+- Al-Kindi
+- Al-Farabi
+- Avicena
+- Al-Ghazali - Algazel
+- Ibn Tufail - Abentofail
+- Ibn al-Haytham - Alhacén
+- Ibn Bayyah - Avempace
+- Abū Rayhān al-Bīrūnī
+- Ibn Tufayl - Abubacer 
+- Ibn al-Nafis
+- Ibn Rushd - Averroes
+- Nasir Al-Din Al-Tusi - Tusi
+- Abenjaldún
+- Mulla Sadra
+- Alhacén
+- Abu Al-Hasan Al-Ash'ari
+## Filosofía judía
+- Filón de Alejandría
+- Akiva ben Losef
+- Maimónides
+## Filosofía renacentista
+- Humanismo
+	- Dante Alighieri
+	- Francisco Petrarca
+	- Giovanni Boccaccio
+	- Coluccio Salutati
+	- Gemisto Pletón
+	- Leonardo Bruni
+	- Poggio Bracciolini
+	- Antonio Beccadelli 
+	- León Battista Alberti
+	- Lorenzo Valla
+	- Alfonso de Palencia
+	- Giovanni Pontano
+	- Marsilio Ficino
+	- Antonio de Nebrija
+	- Gonzalo García de Santa María
+	- Angelo Poliziano
+	- Lucio Marineo Sículo
+	- Pico della Mirandola
+	- Erasmo de Róterdam
+	- Guillaume Budé
+	- Nicolás Maquiavelo
+	- Hernán Núñez de Toledo
+	- Tómas Moro
+	- Giulio Cesare Scaligero
+	- Juan Luis Vives
+	- Juan de Valdés
+	- Robert Estienne
+	- Michel de Montaigne
+- 
+
+
+
+
+- Filosofía medieval y renacentista
+	- Agustín de Hipona
+	- Averroes
+	- Pedro Abelardo
+	- Avicena
+	- Maimonides
+	- Tomás de Aquino
+	- Guillermo de Ockham
+	- Nicolás de Cusa
+	- Tomás Moro
+- Filosofía moderna
+	- René Descartes
+	- Baruch Spinoza
+	- Gottfried Leibniz
+	- David Hume
+	- John Locke
+	- Thomas Hobbes
+	- Immanuel Kant
+	- Arthur Schopenhauer
+	- Karl Marx
+- Filosofía contemporánea
+	- Soren Kierkegaard
+	- Friedrich Nietzsche
+	- Charles Sanders Peirce
+	- Edmund Husserl
+	- Bertrand Russell
+	- Willard Van Orman Quine
+	- Mario Bunge
+	- Alfred Tarski
+	- Ludwig Wittgenstein
+	- Martin Heidegger
+	- Jean-Paul Sartre
+	- Michel Foucault
+	- Saul Kripke
+## Autor - Politología
