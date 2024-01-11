@@ -1,0 +1,88 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-biblioteca-breve-de-novela-seix-barral/","noteIcon":""}
+---
+
+
+- Premio: 30 000 euros
+- Entregado en febrero
+## Ganadores
+- 1958 
+	- [[Las afueras\|Las afueras]] - [[Luis Goytisolo\|Luis Goytisolo]]
+- 1959 
+	- [[Nuevas amistades\|Nuevas amistades]] - [[Juan García Hortelano\|Juan García Hortelano]]
+	- [[Eloy\|Eloy]] - [[Carlos Droguet\|Carlos Droguet]]
+- 1960 - Desierto
+	- [[Encerrados con un solo juguete\|Encerrados con un solo juguete]] - [[Juan Marsé\|Juan Marsé]]
+	- [[La criba\|La criba]] - [[Daniel Sueiro\|Daniel Sueiro]]
+	- [[Los extraordinarios\|Los extraordinarios]] - [[Ana Mairena\|Ana Mairena]]
+- 1961 
+	- [[Dos días de setiembre\|Dos días de setiembre]] - [[José Manuet Caballero Bonald\|José Manuet Caballero Bonald]]
+	- [[El paredón\|El paredón]] - [[Carlos Martínez Moreno\|Carlos Martínez Moreno]]
+- 1962 
+	- [[La ciudad y los perros\|La ciudad y los perros]] - [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]
+	- [[Ritmo lento\|Ritmo lento]] - [[Carmen Martín Gaite\|Carmen Martín Gaite]]
+	- [[En Chima nace un santo\|En Chima nace un santo]] - [[Manuel Zapata Olivella\|Manuel Zapata Olivella]]
+- 1963 
+	- [[Los albañiles\|Los albañiles]] - [[Vicente Leñero\|Vicente Leñero]]
+	- [[El engranaje\|El engranaje]] - [[Juan María Aresti\|Juan María Aresti]]
+	- [[Gracias por el fuego\|Gracias por el fuego]] - [[Mario Benedetti\|Mario Benedetti]]
+	- [[El peso de la noche\|El peso de la noche]] - [[Jorge Edwards\|Jorge Edwards]]
+	- [[Crónica de un regreso\|Crónica de un regreso]] - [[Andrés Martínez\|Andrés Martínez]]
+- 1964 
+	- [[Tres tristes tigres\|Tres tristes tigres]] - [[Guillermo Cabrera Infante\|Guillermo Cabrera Infante]]
+	- [[Cenizas de Izaico\|Cenizas de Izaico]] - [[Claribel Alegría\|Claribel Alegría]] / [[Darwin J. Flakoll\|Darwin J. Flakoll]]
+	- [[Estat d'excepció\|Estat d'excepció]] - [[Manuel de Pedrolo\|Manuel de Pedrolo]]
+- 1965 
+	- [[Últimas tardes con Teresa\|Últimas tardes con Teresa]] - [[Juan Marsé\|Juan Marsé]]
+	- [[La traición de Rita Hayworth\|La traición de Rita Hayworth]] - [[Manuel Puig\|Manuel Puig]]
+- 1966 - Ausente
+- 1967
+	- [[Cambio de piel\|Cambio de piel]] - [[Carlos Fuentes\|Carlos Fuentes]]
+	- [[El mercurio\|El mercurio]] - [[José María Guelbenzu\|José María Guelbenzu]]
+- 1968
+	- [[País portátil\|País portátil]] - [[Adriano González León\|Adriano González León]]
+	- [[Contramutis\|Contramutis]] - [[Jorge Onetti\|Jorge Onetti]]
+	- [[Palabras en el muro\|Palabras en el muro]] - [[Ramón Hernández\|Ramón Hernández]]
+- 1969 
+	- [[Una meditación\|Una meditación]] - [[Juan Benet\|Juan Benet]]
+- 1970 - Problemas internos
+	- [[El obsceno pájaro\|El obsceno pájaro]] - [[José Donoso\|José Donoso]]
+	- [[11 Áreas ⚙/02 Biblioteca/Un mundo para Julius\|Un mundo para Julius]] - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]]
+	- [[Lapsus\|Lapsus]] - [[Héctor Manjarrez\|Héctor Manjarrez]]
+- 1971 
+	- [[Sonámbulo del sol\|Sonámbulo del sol]] - [[Nivaria Tejera\|Nivaria Tejera]]
+	- [[Figuraciones en el mes de marzo\|Figuraciones en el mes de marzo]] - [[Emilio Díaz Valcárcel\|Emilio Díaz Valcárcel]]
+	- [[La vida disparatada de Félix Palissa\|La vida disparatada de Félix Palissa]] - [[Miguel Arteche\|Miguel Arteche]]
+- 1972
+	- [[La circuncisión del señor solo\|La circuncisión del señor solo]] - [[José Leyva\|José Leyva]]
+- 1973 - Se declaró desierto
+	- [[Nina o Hanca\|Nina o Hanca]] - [[Fernando González Aller\|Fernando González Aller]]
+	- [[El círculo yersida\|El círculo yersida]] - [[Carlos M. Cirsisi\|Carlos M. Cirsisi]]
+	- [[De las sabidurías de la noche y de cierta frivolidad del alma\|De las sabidurías de la noche y de cierta frivolidad del alma]] - [[Ramón Zulaica\|Ramón Zulaica]]
+	- [[Fases de la luna\|Fases de la luna]] - [[Augusto Martínez Torres\|Augusto Martínez Torres]]
+### Segunda Etapa   
+- 1999 - [[En busca de Klingsor\|En busca de Klingsor]] - [[Jorge Volpi\|Jorge Volpi]]
+- 2000 - [[Los impacientes\|Los impacientes]] - [[Gonzalo Garcés\|Gonzalo Garcés]]
+- 2001 - [[Velódromo de invierno\|Velódromo de invierno]] - [[Juana Salabert\|Juana Salabert]]
+- 2002 - [[Satanás\|Satanás]] - [[Mario Mendoza\|Mario Mendoza]]
+- 2003 - [[Los príncipes nubios\|Los príncipes nubios]] - [[Juan Bonilla\|Juan Bonilla]]
+- 2004 - [[La burla del tiempo\|La burla del tiempo]] -  [[Mauricio Electorat\|Mauricio Electorat]]
+- 2005 - [[Una palabra tuya\|Una palabra tuya]] - [[Elvira Lindo\|Elvira Lindo]]
+- 2006 - [[La segunda mujer\|La segunda mujer]] - [[Luisa Castro\|Luisa Castro]]
+- 2007 - [[El séptimo velo\|El séptimo velo]] - [[Juan Manuel de Prada\|Juan Manuel de Prada]]
+- 2008 - [[El infinito en la palma de la mano\|El infinito en la palma de la mano]] - [[Gioconda Belli\|Gioconda Belli]]
+- 2009 - [[Corazón de napalm\|Corazón de napalm]] - [[Clara Usón\|Clara Usón]]
+- 2010 - [[El oficinista\|El oficinista]] - [[Guillermo Saccomanno\|Guillermo Saccomanno]]
+- 2011 - [[Leonora\|Leonora]] - [[Elena Poniatowska\|Elena Poniatowska]]
+- 2012 - [[El jardín colgante\|El jardín colgante]]​ - [[Javier Calvo\|Javier Calvo]]
+- 2013 - [[Música de cámara\|Música de cámara]] - [[Rosa Regàs\|Rosa Regàs]]
+- 2014 - [[Ávidas pretensiones​\|Ávidas pretensiones​]] - [[Fernando Aramburu\|Fernando Aramburu]]
+- 2015 - [[La isla del padre\|La isla del padre]]​ - [[Fernando Marías Amondo\|Fernando Marías Amondo]]
+- 2016 - [[El Sistema\|El Sistema]]​ - [[Ricardo Menéndez Salmón\|Ricardo Menéndez Salmón]]
+- 2017 - [[A cielo abierto\|A cielo abierto]] - [[Antonio Iturbe\|Antonio Iturbe]]
+- 2018 - [[Trilogía de la guerra\|Trilogía de la guerra]] - [[Agustín Fernández Mallo\|Agustín Fernández Mallo]]
+- 2019 - [[Días sin ti\|Días sin ti]] - [[Elvira Sastre\|Elvira Sastre]]
+- 2020 - [[Noche y océano\|Noche y océano]]​ - [[Raquel Taranilla\|Raquel Taranilla]]
+- 2021 - [[Trigo limpio\|Trigo limpio]] - [[Juan Manuel Gil\|Juan Manuel Gil]]
+- 2022 - [[Lugar seguro\|Lugar seguro]] - [[Isaac Rosa\|Isaac Rosa]]
+- 2023 - [[La educación física\|La educación física]] - [[Rosario Villajos\|Rosario Villajos]]
