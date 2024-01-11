@@ -1,0 +1,214 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/deseo-que-venga-el-diablo/","noteIcon":""}
+---
+
+- ![Pasted image 20231123045215.png|200](/img/user/02%20Image/Pasted%20image%2020231123045215.png)
+## Comentario
+- Transmite el ímpetu de la juventud, se siente su alegoría al Diablo sobre lo desconocido y la malicia masculina, cuando habla de villano o del necio, del intelectual y del ladrón. 
+- En el epílogo posterior cuenta sin sorprender el cambio y la imposibilidad de volver a escribir con tanta estridencia.
+- Sin embargo, el texto es bueno, quizás un recuerdo la etapa adolescente, cuando somos todos más soñadores y que luego, ya no podemos volver a pensar igual nunca más.
+## Citas 🏷
+- Página 28 - 17 de enero
+	- Me siento afortunada por no ser de esos que nacen lastrados por un sentido del honor y la virtud que siempre ha de preceder a la Felicidad. Son muy pocos los que **encuentran la Felicidad en la Virtud**. Los demás deben alegrarse de verla partir.
+- Página 48 - 24 de enero
+	- Como he dicho, soy un genio de rasgos ramplones y aspecto insignificante pero tengo una **personalidad primorosa**. Tengo una figura bonita. Estoy bien proporcionada. Y cuando decido hablar de esa manera tan **encantadoramente original** que tengo, adornando mi conversación con mentiras muchas y variopintas, despido algo que llama la atención, un "aire".
+- Página 49 - 24 de enero
+	- Mary MacLane considera genios: 
+		- *Ninon de L'Enclos*
+		- *Charlotte Brontë*
+		- *Marie Bashkirtseff*
+		- *Olive Schreiner*
+		- *George Eliot*
+- Página 57 - 27 de enero
+	- Hay sentimientos que surgen en mi interior y manan a borbotones hasta desbordarme. Me veo indefensa, destrozada y derrotada ante ellos, como si estuvieran **escritos en las paredes de mi sala del alma en una lengua desconocida**.
+- Página 60 - 28 de enero
+	- (...) He descubierto el arte de las pequeñas cosas del día a día. (...) se trata de Arte con A mayúscula. He adquirido el arte del Buen Comer. Es un arte que suele cultivarse a los grises y ancianos cuarenta y cincuenta... , cuando se cultiva... No puede negarse que es un arte insólito.
+	- Pero yo lo conozco ya en su singular exquisitez a la temprana edad de diecinueve..., una prueba más de mi genialidad, ¿no os parece?
+	- El arte del Buen Comer se basa en dos puntos fundamentales: se ha de comer solamente cuando se tiene hambre y hay que hacerlo a bocados pequeños.
+	- Hay personas que comen por comer. Son golosas y comparten naturaleza con el cerdo y el águila ratonera. Hay personas que toman bocados que no son pequeños. También son golosas y comparten naturaleza con el cerdo y águila ratonera. Hay personas que no disfrutan comiendo si no se les ponen delante platos fastuosos y elaborados. Me atrevería a decir que ninguna ha adquirido el arte de nada.
+	- Yo, en cambio, sí que he adquirido el arte de comer una aceituna
+	- Escuchadme ahora con atención, pues voy a contaros sobre el **arte de comer una aceituna**.
+	- Cojo la aceituna entre los dedos y contemplo su riqueza *verdiojival*. Me recuerda en el acto tierra donde crecen los cidros verdes..., aquella cuyos emblemas son el ciprés y el mirto; a la tierra del Sol donde los seres humanos son deliciosa y encantadoramente malvados..., donde los hombre son arrojados y apasionados, y las mujeres han alcanzado una digna elegancia en la mente y en el cuerpo..., y muestran sus dos pechos redondos y plenos y finamente veteados bajo delicados brocados.
+	- La sola visión de la aceituna conjura en mi mente esta encantadora postal.
+	- Coloco los dientes y la lengua en torno a la aceituna y la muerdo. Está amarga, salada, riquísima. La saliva corre a su encuentro, y mi lengua es una lengua feliz. Mientras el trozo de aceituna descansa en mi boca, y se deja aplastar y exprimir con fruición entre los dientes, se produce un rápido cambio temporal en mi personalidad. Pienso en unos versos adorables del poeta persa:
+	```
+	Entregaos a la Alegría, pues el Penar será infinito. 
+	Las estrellas volverán a reencontrarse
+	en el mismo punto del firmamento,
+	mas de tu cuerpo harán ladrillos
+	para el mundo de un palacio
+	```
+	- "¡Ay, mi querida dulce aceituna amargura!", digo para mis adentros.
+	- El trozo de aceituna desciende por el esófago hasta el Estómago. Allí recibe una bienvenida entusiasta. Los jugos gástricos saltan desde las paredes y lo envuelven en un abrazo amoroso. A mi Estómago le gustan las cosas amargas y saladas, y le prodiga a la aceituna piropos y un sinfín de ternezas. Se ríe en un deleite silencioso. Siente que el día que tanto ha estado esperando por fin ha llegado. La filosofía de mi Estómago es cabalmente epicúrea: permitidle recibir tan sólo un trocito de aceituna y no entenderá ni al mañana ni al pasado. Vive, voluptuosamente, en el presente. Está satisfecho, está en la gloria.
+	- Vuelvo a morder la aceituna. De nuevo el frescor amargo y salado me enloquece la lengua. "Si esto es vanidad, que sea vanidad". Los momentos dorados pasan revoloteando y no les presto atención. Porque ¿acaso no estoy tan ricamente sentada comiéndome una aceituna? ¡Anda y que te zurdan, a ti que nunca has estado tan ricamente sentado comiéndote una aceituna! Mi personalidad evoluciona aún más lejos en su mudanza. Ahora estoy consagrada a la sensualidad desasosegada, y que pase lo que tenga que pasar. La hermosa Tierra parece reducirse a una cosa ojival, fresca, rica, verde y deliciosamente salada. Experimento una sensación de gozo por ser un ente femenino vivo, y por tener lengua, dientes y papilas gustativas.
+	- Este otro trozo también baja por mi esófago rojo, de nuevo el Estómago regocijado alza una voz silenciosa de salmos y júbilo. Se ha instaurado una monarquía absoluta y la aceituna verde ocupa el trono. Los besos de los jugos gástricos se vuelven calientes, sensuales, convulsos y extáticos. "Quitad allá, pálidos y sombríos fantasmas de la dispepsia -exclama mi Estómago-. No os conozco. Soy de un mundo brillante y reluciente. Moro los Campos Elíseos".
+	- Muerdo una vez más la aceituna. Y una vez más mi lengua se electrifica. Se produce entonces el tercer estado de mi transformación temporal: ahora soy una sensualista obscena pero divinamente satisfecha. Una sinfonía exquisita de sensualismo y placer parece estar sonando en algún punto de mi interior. Mi corazón ronronea. El cerebro pliega sus brazos y se echa. Pongo los pies en el asiento de otras silla. El mundo entero es ahora una deliciosa idea: la de una aceituna verde. En consecuencia, la aceituna verde es algo perfecto..., una cosa absolutamente perfecta.
+	- sólo las imperfecciones suscitan el asco y el rechaza. Cuando una cosa es perfecta, por muy malos ojos con que la miremos, sólo puede verse su ser..., su ser y nada más.
+	- Y por esa razón he creado mi aceituna y mi arte perfectos.
+	- Ahora, por fin, este tercer trozo de aceituna me baja por el esófago anhelante hasta el Estómago. "Y entonces el corazón de placeres se me hincha." El juego de las secreciones gástricas se vuelve maravilloso. ¡Es el encuentro de las aguas! Sería una maravilla, ay, pero qué maravilla, si los corazones del mundo se unieran en paz, como los jugos gástricos se unen ante la llegada de una aceituna verde al Estómago! "¡Paraíso! ¡Paraíso!", dice mi Estómago.
+	- Cada gota de sangre de mis venas apasionadas está en reposo. A través del Estómago -¡mí Estómago!, ¿me oís?-, mi alma parece sentir el infinito. Los minutos vuelan. Dentro de poco habrá terminado. Pero de momento esto a salvo. Estoy plenamente satisfecha. No quiero nada, nada.
+	- Mi serenidad interior es infinita; soy consciente de que es algo momentáneo y no tiene importancia. Por el contrario, conocer esta circunstancia hace que el presente sea sosegado: el reposo, más ilimitado e intenso.
+	- ¿Dónde está ahora tu condena, Diablo? Si ha de haber condena, ¡que la haya! Si esto es la caída humana, entonces ¡qué bien sienta estar cayendo! En estos momentos, de buen grado me gustaría caer como tú, Lucifer, "para nunca más esperar"
+	- Y así, mordisco a mordisco, la aceituna entra en mi cuerpo y mi alma. Cada bocado trae consigo una ola recurrente de sensación y encanto.
+	- No, no discutiremos con la mente que declaró que la vida es una tragedia para quienes sienten. Lo dejaremos estar. Sin embargo, hay partes de la tragedia que no son trágicas. Hay partes que admiten otro derrotero.
+	- Conforme pasen los años, uno tras otro, seguiré comiendo. Y mientras coma tendré mi breve y sosegada de aberración.
+	- Éste es el arte de Comer.
+	- Lo he adquirido mediante la analizando..., analizando..., analizando. Mi genio es analítico, ciertamente. Y me permite aunque también sentir amargamente..., el lastre pesado pesadísimo de la vida.
+	- ¡Qué lombriz miserable sería si no fuera por los estallidos de filosofía, por estos escarceos! 
+	- Si el Diablo lo tiene a bien, talvez un día tenga Felicidad. Con eso será más que suficiente. Entonces dejaré de analizar. Seré un ser distinto.
+	- Pero, en el ínterin, comeré.
+	- Cuando los últimos restos de la aceituna desaparecen en el Estómago, cuando ésta queda reducida a un quimo animado, cuando jugueteo con el hueso entre los dedos, cuando me recuesto en la silla y estiro la ay, entonces, ¿no me envidias, tú, buen mundo valiente, que no eres filósofo, que no has el arte de las cosas pequeñas, que no tienes un quimo consciente en el Estómago, que no has adquirido el arte del Buen Comer?
+- Página 68 - 30 de enero
+	- Dice el **refrán inglés** que, *cuando una mente está ociosa, es que el Diablo la ha convertido en su obrador*.
+	- Me parece una afirmación de lo más absurda e incongruente. Si el Diablo está trabajando en una mente es porque no está ociosa. Y si uno tiene en cuneta el personaje tan brillante que es el Diablo, y qué perfección la de sus obras, surge el debate de si necesita en lo más mínimo a la amplia mayoría de las mentes ociosas que plagan la Tierra. Aunque, al fin y al cabo, el Diablo es tan listo que podría crear una obra insuperable hasta con las herramientas más pobres.
+- Página 80 - 3 de febrero
+	- Sobre el **pueblo de Butt**, donde predominan pobladores de Irlanda y Cornualles.
+	- Es posible reparar en que el marido y la mujer que se sonríen con mayor dulzura a la vista de las multitudes son aquellos cuyos semblantes hacen gala de varias cicatrices y arañasos que conmemoran nocturnas orgías domésticas; en que la curiosa corpulencia maciza y **roqueña** de las mujeres de algunos mineros se debe tanto a la cantidad de cerveza que ingieren como a su maternidad anual; en que la gran pasión que domina las vidas de algunos hombres es la curiosidad..., en que todo el rebaño ha quedado retorcido, pervertido y yermo tras vivir sus vidas en Butte, la ahumada.
+	- (...) Y así es Butte, la promiscua..., la bohemia. Y todas estas personas son los monigotes del Diablo. Lo divierten, no me cabe duda.
+	- Butte es una ciudad de arena y aridez.
+	- Son gentes de alma necia.
+- Página 83 - 7 de febrero
+	- En esta casa por la que arrastro mi existencia maldita, diabólica y hastiada, arriba en el baño, en la repisa sobre el revestimiento de madera, hay seis capillo de dientes: uno blanco muy corriente, con el mango de hueso, que es de mi hermano pequeño; uno blanco de mango retorcido que es de mi hermana; uno de mango liso que es de mi hermano mayor; uno de mango de celuloide que es de mi padrastro; uno con el mango de celuloide que es de mi padrastro; uno con el mango de plata que es mío; y otro corriente que es de mi madre. La visión de los cepillos días tras días, semana tras semana, y siempre, es una de las circunstancias más apabullantes y enloquecedora de mi vida de necia.
+	- Todos los viernes limpio el baño. Por lo general, me gusta. Disfruto con la sensación del agua al escurrirse por mis dedos, y siempre me deja las uñas limpísimas. Pero la obviedad de los seis cepillos de diente que me representan a mí y a los otros cinco miembros de esta familia y el vacío sin rumbo de mi existencia aquí -viernes tras viernes- me desgastan el alma y me enferman el corazón.
+	- La penosa, árida, deleznable, detestable, estrecha Vaciedad de mi vida en esta nunca me sobreviene con una fuerza más intensa que cuando mi vista recae sin querer en esos seis cepillos de dientes.
+	- Los horrores de la Inquisición alcanzaban un minucioso refinamiento en su crueldad cuando la cabeza de la víctima se colocaba bajo una caída de agua incesante, gota a gota.
+	- Un condenado en una celda de aislamiento que pasara días interminables mirando cuatro paredes vacías sentiría que, ni aunque hubiese cometido crimen conocido, merecería en modo alguno tal castigo.
+	- No estoy sometida a ninguna Inquisición ni condenada en una celda de aislamiento. Pero vivo en una casa con gente que me afecta sobre todo mediante sus cepillos de dientes..., esos mismos que, sobre todas las cosas, me gustaría agarrar y tirar por la ventana del baño... Y, ay, !maldecirlos!, ¡maldita sea su estampa!
+	- Vosotros que leéis estas líneas, ¿comprendéis lo profundos que son el odio y la amargura que entraña todo esto para mí? Tal vez quien sea mujer y también se haya sentido sola pueda comprenderlo.
+	- Cuando miro los seis cepillos me sobreviene una tormenta fiera y refulgente de rabia y pasión. Dos manos pesadas me agarran la vida y la oprimen, la oprimen y oprimen. Atenazan el hastío enfermo enfermísimo de mi fuero interno.
+	- Qué no daría yo por dejar esta casa y a esta gente, y esta intensa Vaciedad.„ ¡Desinhibirme de todo, para siempre! Pero ¿adónde habría de ir, qué hacer? Siento con una furia loca que estoy indefensa. EI padrastro y la madre me tienen agarrada, de una forma deleznable y absurda pero con Ia persistencia y la tenacidad de las mentes estrechas. Lo siento como dos pesadas manos de plomos. No se ve.„, no es tangible: se siente.
+	- Una vez cogí mi cepillo de mango plateado de Ia repisa del baño y lo guardé en mi cuarto un par de días. Pensé que así atenuaría el efecto de los seis.
+	- Volví a ponerlo en el baño.
+	- La ausencia de uno acentuaba Ia trascendental condena del resto. Los cinco cepillos me enloquecían más contundentemente que los seis. La condena no era peor, avivó aún más mi sentimiento hacia ellos.
+	- Y por esa razón devolví el cepillo al baño.
+	- Esta casa está muy bien amueblada. Mi madre se pasa la vida adornándola. Los cuartitos cuadrados son bonitos.
+	- Pero cuando los miro con perspectiva me recuerda al proverbio bíblico sobre la comida y el buey engordado.
+	- Con todo, no es aquí cuestión de odio, salvo hacia mi misma y mi amargura. Soy la única de mi familia cuyo espíritu acre se rebela a gritos contra las cosas.
+	- Pero hay algo más sutil, que golpea con más fuerza, y es Ia falta de empatía, la falta de todo lo cuenta: es la gran y profunda Nada.
+	- ¡Cómo preferiría el odio a la Nada!
+	- Ansío sin esperanza tener la fuerza de voluntad y la resolución suficientes para tomar las riendas de mi vida e irme un día de esta casa para no volver jamás. No tengo a donde ir —ni dinero—, y conozco el mundo demasiado bien como para depositar la más mínima fe en la bondad voluntaria de su corazón. Pero cuán mejor y más extenso, menos deleznable y enloquecedor, salir al mundo y que te golpeen, te engañen y te estafen que ¡esto!: esta cosa que se resume fácilmente en un círculo compuesto por seis cepillos de dientes, esta condena excesiva.
+	- He leído sobre una mujer que fue de Jerusalén a Jericó y se metió en una cueva de ladrones. Es posible que tuviese una casa en Jerusalén con seis cepillos de dientes y Nada. En tal caso, seguro que se arrojó alegremente a los brazos de los ladrones. 
+	- Pienso en crímenes que provocan horror y repulsión en mi sensibilidad de doncella. Y pienso en mi Vaciedad, y me pregunto si no sería mejor recorrer Ia Tierra como una paria, una mujer solitaria, y encontrarme y enfrentarme con éstos, a que toda mi sensibilidad de mujer se vaya desgarrando lenta y dolorosamente, que se venza y se rompa„., en esta Nada innombrable.
+	- ¡Ay, qué monotonía...! ¡Qué desesperanza de Nada!
+	- No hay palabras para describirla. Y cuesta más soportar algo para lo que no hay palabras.
+	- Por muy florido que una tenga el verbo, siempre hay algo que no puede describir.
+	- Estoy cansada de ser.„, ser siempre. Pero que así sea
+	- Mi vida está llena de ser.
+	- Si mi alma pudiera despertar del todo tal vez levitaría de mí misma„., seguro que sí. Pero no tengo el alma despierta. Está despertando, intentando abrir los ojos; y llora y grita a ciegas en busca de algo pero sin poder saber. Tengo la sensación de que seguirá asi siempre.
+	- Ay, lo siento todo, itodo! Siento lo que puede llegar a ser. Y hay Nada. Hay seis cepillos de dientes.
+	- ¿Me detendré para unas cuantas distinciones sutiles, una teoría, una ley natural incluso, con tal de escapar de aquí a la Felicidad..., o a algo perfectamente inferior?
+	- Miseria, ¡miseria! ¡Ojalá no la sintiera tanto!
+	- Ay, el el hastío.„, mientras deseo que venga el Diablo
+- Página 104 - 17 de febrero
+	- - Ahora sé feliz, mi mujercita hastiada - Diría el Diablo.
+	- Y el largo larguísimo día dorado se llenará con la música de la Vida Real.
+	- Mi posibilidad más fastuosa se hará realidad. El mundo contiene una gran cantidad de cosas... !y está es mi posibilidad más fastuosa hecha realidad¡
+	- Y en el apacible noche negra yaceré al lado del Diablo-hombre..., y apoyaré la cabeza en el hueco de su hombro, y apretará mi mano en su mano.
+	- Lloraré con lágrimas arrobadas.
+	- Cuando pienso en todo esto y lo escribo, tengo un sentimiento que sobrepasa el dolor.
+	- Tal vez la voz humana más dulce, tierna, piadosa y benévola del mundo pueda cantar estas cosas y este sentimiento engastado en su propia música maravillosa...., y se repetirá en eco lejano lejanísimo, y entonces lo entenderéis.
+- Página 131 - 15 de marzo
+	```
+	Si tan fácil fuera obrar como saber lo que es bueno de hacer, 
+	las capillas  serían iglesias y las cabañas de los pobres
+	palacios de príncipes
+		- El mercader de Venecia de William Shakespeare.
+	```
+	- No sé cómo obrar.
+	- No sé lo que conviene hacer.
+	- No haría nada ni aunque lo supiera.
+	- Debería añadir esto a mi letanía: buen Diablo, líbrame... de mí.
+- Página 137 - 17 de marzo
+	- Hay quienes me dicen: No analices tanto y se acabará tu desdicha.
+	- Cuando Algo te lance palos pesados y te golpee, que no te haga daño. Cuando Algo más fuerte que tú ponga tus manos en el fuego, no dejes que te queme. Cuando Algo te empuje a un río de hielo, no sientas el frío. Cuando Algo suelte un latigazo cortante sobre tus hombros desnudos, no permitas que te aflija..., ignora que existe.
+	- Esto es sabiduría de la buena y una lógica bella y diáfana.
+	- Es una lástima que todavía nadie haya podido vivir así.
+	- Pero, a fin de cuentas, poco importa. Nada es asunto de nadie. Nada tiene trascendencia.
+- Página 159 - 22 de marzo
+	- *Me figuro que un hombre es o bien villano o bien necio, aunque hay algunos que son una acertada mezcla de ambas cosas. La clase del villano reconocido es preferible a la mezcla de ambas, y a un simple necio*. En cualquier caso, me gusta el villano..., un villano que a veces puede ser muy tierno. Y entonces, cuando miro los retratos, me enamoro del incomparable **Napoleón**. Los diecisiete grabados son todos distintos y a la vez iguales. Me enamoro de cada uno por separado.
+	- En uno aparece feo y poco atractivo..., y fuerte. Me enamoro de él.
+	- En otro aparece cruel, despiadado y sumamente egoísta..., y fuerte. Me enamoro de él.
+	- En un tercero tiene una mirada gorda y rolliza, y se le ve insignificante...., y fuerte. Me enamoro de él.
+	- En un cuarto aparece majestuosamente triste y desesperado..., y fuerte. Me enamoro de él.
+	- En el quinto aparece adulador, avaricioso y vulgar..., y fuerte. Me enamoro de él.
+	- En el sexto aparece hábil, superior y exaltado..., y fuerte. Me enamoro de él.
+	- En el séptimo aparece romántico y hermoso..., y fuerte. Me enamoro de él.
+	- En el octavo aparece descaradamente sensual y hediondo por la falta de aseo..., y fuerte. Me enamoro de él.
+	- En el noveno aparece sobrenatural, misterioso e irreal..., y fuerte. Me enamoro de él.
+	- En el décimo aparece negro, ceñudo y malhumorado..., y fuerte. Me enamoro de él.
+	- En el undécimo aparece inferior, insignificante e inane..., y fuerte. Me enamoro de él.
+	- En el duodécimo aparece rudo, con apariencia de rufián y zafio..., y fuerte. Me enamoro de él.
+	- En el décimo tercero aparece menudo, lobuno y vil..., y fuerte. Me enamoro de él.
+	- En el décimo cuarto aparece tranquilo, confiado e intelectual..., y fuerte. Me enamoro de él.
+	- En el décimo quinto aparece vacilante, quejoso y con boca de mujer..., y fuerte. Me enamoro de él.
+	- En el décimo sexto aparece lento, pesado y cruel..., y fuerte. Me enamoro de él.
+	- En el décimo séptimo aparece muy tierno..., y fuerte. Me enamoro de él.
+	- Napoleón se parecía mucho al Diablo, pienso mientras me inclino en la silla de respaldo recto con los pies en la cómoda y estudio largo y tendido los dieciséis retratos bien entrada la noche.
+- Página 167 - 23 de marzo
+	- Mi filosofía, entiendo sin necesidad de mucho análisis, roza peligrosamente el sensualismo.
+	- Es maravillosa la cantidad de caras que puede tener un único personaje.
+	- La Naturaleza, con todos ese soles, todos eso altozanos, y ríos, y estrellas, es inescrutable..., intangible..., enloquecedora. Te conmueve con un júbilo y una angustia inenarrables, pero nadie puede siquiera imaginar qué significa.
+	- La naturaleza humana es aún más inescrutable..., y no sale nada a la superficie en las mentes de sus conocidos. Y en gran medida son unos necios que no saben qué germen poseen..., de qué son capaces. Y, sin duda, en la mayoría de las mentes, los demonios durmientes nunca despiertan ni llegan a conocerse.
+	- Otra prueba de mi genialidad analítica es que yo, a mis diecinueve años de edad, sea capaz de reconocer los demonios de mi personalidad. No tengo ni el más mínimo deseo, siendo como son las cosas, de librarme de ellos. Los genios como yo tenemos necesariamente que tener en nosotros diversos males. "Tengo en mí el germen de todo crimen." No tengo deseo alguno de destruir dicho germen. Es más, debería alegrarme si se me desarrolla en una enfermedad devastadora. Algo de esta horrible confusión cedería entonces. Mi corazón de madera y mi alma llorarían menos pesada y amargamente en la oscuridad.
+- Página 177 - 29 de marzo
+	- Y a los diecinueve años sé que soy un genio.
+	- Un genio que no sabe que es un genio no es tal cosa. Un borracho puede tropezarse con un piano y, sin querer, tocas una música que haga vibrar las almas..., que palpe los misterios. Pero no sabe de su poder, y no es un genio, por mucho que los hombres se despierten y enloquezcan a partir de ese día.
+	- Sé que soy un genio más que ningún otro que haya existido.
+	- Tengo la sensación de que el mundo nunca lo sabrá. 
+	- Y, mientras esto pienso, me pregunto si los ángeles no estarán llorando en alguna parte por esa razón.
+- Página 181-185 - 3 de abril
+	- — ¿Y obrarás de acuerdo a tus convicciones?
+	- — Si me ofreces lo que los virtuosos creen ciegamente que es lo peor posible, par mí será la línea roja rojísima del cielo, el deseo de mi corazón, mi vida, mi sosiego. Tú eres el Diablo. Me he enamorado de ti.
+	- — Te creo. ¿Y cómo es estar enamorado?
+	- Sentada recatadamente en el feo sofá de terciopelo rojo, con las manos juntas y los pies cruzados, ha intentado definir ese sentimiento maravilloso:
+	- — Es como si chispar de fuego y cristales de hielo corrieran en tropel por la sangre de mis venas; como si mil alfileres me perforaran la carne y cada agujero fuera un agujero de placer, y cada agujero fuera un agujero de dolor; como si me recostaran el corazón sobre un lecho de terciopelo y algodones pero me mantuvieran despierta unas dulces arias de violines; como si leche, miel y flores de cerezo fluyeran por mi estómago y luego desaparecieran por completo; como si unos mundos extraños y hermosos se extendieran ante mis ojos, ora en una luz cegadora, ora en una oscuridad absoluta, con una rapidez de mi cerebro; como si se me metieran tallos de regaliz de América por el cálido cuello de lino; como si..., en fin, qué te voy a contar a ti. -Me he detenido bruscamente.
+	- (...)
+	- — Pero, así y todo , no eres verdadera -ha respuesto el Diablo-hombre.
+	- — Soy una mentirosa -ha contestado.
+	- — Eres una mentirosa, sí, pero eres coherente con tus mentiras. Ser coherente con lo que sea es Verdad.
+	- — Así es -he corroborado-. Soy todo lo falsa que puede ser una mujer.
+	- — Pero tú sabes lo que deseas.
+	- — Claro, claro que sé lo que deseo: deseo casarme contigo.
+	- (...)
+	- — ¿Por qué -ha preguntado el Diablo- estás enamorada de mí?
+	- — Sabes tanto..., tantísimo -he respondido-. Creo que debe de ser eso. En tu cerebro albergas la sabiduría de las esferas. Y, en consecuencia, has de comprenderme. Porque nadie entiende todos estos sentimiento llameantes que constituyen mi mayor agonía. Tú tienes que conocer necesariamente los más hermosos. ¡Y tus ojos! Ay, poco importa por qué estoy enamorada de ti. Basta con que lo esté. Y si te casas conmigo, te haré más feliz de los que ya eres.
+	- — No soy feliz en modo alguno -ha contestado el Diablo-hombre-. Me doy por satisfecho, sólo eso.
+	- — La satisfacción, en lugar de la Felicidad, es una sensación horrenda. Ninguno de tus innumerables pero, además, te odian. El pueblo siempre ha odiado a su tirano. Tú eres el mío pero te quiero embebida y localmente. Para mí la Felicidad será vivir contigo y ver que el incontenible aluvión de mi amor te hace feliz.
+	- — Es interesante. Eres una filósofa femenina de lo más interesante..., y tu filosofía está emparentada con mi propio corazón, con su falta de virtud. Es de desear que no seas una "intelectual", que es un rasgo imperdonable.
+	- — Desde luego que no lo soy -he contestado-. Los intelectuales son gente detestable. Tienen caras pálidas, estómagos e hígado que no sirven para nada, y las que son mujeres sin duda llevan corsés demasiado apretados, y negros seguramente, y si son hombre, son empalagosos, que es lo peor que puede haber. Y nunca, ni por asomo, saben lo que significa caminar el día entero bajo la lluvia o revolcarse por el barro. Y, por encima de todo, nunca se enamoran del Diablo.
+	- (...)
+	- — En este momento -ha dicho el Diablo-, tienes la sensación de que nada te importa. Pero, si así lo dispongo, podría provocar una transfiguración. Besaría tu alma hasta lanzarla al Paraíso.
+	- — Sí —he contestado sin emoción.
+	- — Una hora no es mucho tiempo. Pero sabemos que basta para sufrir, volverse loco, vivir y ser feliz. Y el mundo contienen un buen puñado de horas. Ahora me voy. Es probable que no vuelva más, y es probable que vuelva de nuevo.
+- Página 201 - Epílogo
+	- La presión de mil nuevas circunstancias me obligó a cambiar mis actitudes hacia todo. Me arrancaron de cuajo de las oscuridades de mi vida en Butte y me pusieron bajo un candelero no muy cordial, con luces de largo alcance: y todo por mi librito polémico del **Diablo**, la **Aceituna**, los **Cepillos de Dientes** y el "Maldita sea".
+## Vocabulario
+- Desasosiego
+- Sosiego
+- Quiescente
+- Percal
+- Buhonero
+- hierba timotea
+- por mor de un ideal
+- Eneguas de muaré
+- Enaguas blancas
+- Brizna
+- Sosiego
+- Alféizar
+- Arrobar: 
+	- embelesar, extasiar, obnubilar, subyugar 
+	- Robar
+	- Enajenarse, quedar fuera de sí
+- Yermo: 
+	- Que no tiene vegetación y no está cultivado o no se puede cultivar
+	- Lugar extraordinariamente emprobecido
+- Córnico: lengua celta britónica, hablada en el condado de Cornualles
+- Butte: término empleado en USA y Canadá para denominar una colina aislada con una cima plana
+- Roqueña: 
+	- Sitio lleno de rocas, peñascoso, rocoso, riscoso
+	- Duro como una roca, pétreo, duro, diamantino
+## Expresiones
+- Corazón de madera
+- Dama de las anemonas
+- Brizna de hierba
+- Peinador de Percal
