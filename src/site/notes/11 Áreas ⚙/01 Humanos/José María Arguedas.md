@@ -1,0 +1,71 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/01-humanos/jose-maria-arguedas/","noteIcon":""}
+---
+
+- ![Pasted image 20231122040831.png|200](/img/user/02%20Image/Pasted%20image%2020231122040831.png)
+## Novelas
+- [[Yawar fiesta\|Yawar fiesta]] - 1941
+	- Revisada en 1958.
+- [[Diamantes y pedernales\|Diamantes y pedernales]] - 1954
+	- Editada conjuntamente con una reedición del libro Agua y el cuento «Orovilca»
+- [[Los ríos profundos\|Los ríos profundos]] - 1958 
+	- Premio Nacional de Fomento a la Cultura Ricardo Palma en 1959.
+	- Reeditada en 1978: Biblioteca Ayacucho de Caracas con prólogo de Mario Vargas Llosa.
+- [[El Sexto\|El Sexto]] - 1961
+	- Premio Nacional de Fomento a la Cultura Ricardo Palma en 1962.
+- [[Todas las sangres\|Todas las sangres]] - 1964
+- [[El zorro de arriba y el zorro de abajo\|El zorro de arriba y el zorro de abajo]] - 1971
+	- novela inconclusa y que fue publicada póstumamente.
+## Cuentos
+- [[Agua\|Agua]] - 1935
+	- Colección de cuentos integrada por: 
+		- Agua
+		- Los escoleros 
+		- Warma kuyay
+	- Segundo premio en el concurso internacional promovido por la Revista Americana de Buenos Aires. 
+	- Traducida al ruso, alemán, francés e inglés por La Literatura Internacional, de Moscú.
+- [[La muerte de los Arango\|La muerte de los Arango]] - 1955
+	- Cuento. Primer premio del Concurso Latinoamericano de Cuento en México.
+- [[La agonía de Rasu Ñiti\|La agonía de Rasu Ñiti]] - 1962
+- [[El sueño del pongo\|El sueño del pongo]] - 1965
+	- Cuento, en edición bilingüe (castellano-quechua).
+- [[Amor mundo\|Amor mundo]] - 1967
+	- Colección de cuatro cuentos de tema erótico: 
+		- El horno viejo
+		- La huerta
+		- El ayla
+		- Don Antonio
+### Recopilaciones póstumas
+- El forastero y otros cuentos - 1972 
+	- Montevideo: Sandino 
+	- Contiene 
+		- El barranco
+		- Orovilca
+		- Hijo solo
+		- El forastero
+- Páginas escogidas - 1972
+	- (Lima: Universo). Selección de la obra de Arguedas, editada por Emilio Adolfo Westphalen.
+- Cuentos olvidados - 1973
+	- (Lima: Imágenes y Letras). Compilación de cuentos perdidos en periódicos y revistas de los años 1934 y 1935, edición y notas de José Luis Rouillon.
+- Relatos completos - 1974
+	- Buenos Aires: Losada
+	- Contiene los siguientes importantes relatos: 
+		- Agua
+		- Los escoleros
+		- Warma kuyay
+		- El barranco
+		- Diamantes y pedernales,
+		- Orovilca
+		- La muerte de los Arango
+		- Hijo solo
+		- La agonía de Rasu Ñiti
+		- El sueño del pongo
+		- El horno viejo
+		- La huerta
+		- El ayla
+		- Don Antonio
+## Poesía
+- 1962: Túpac Amaru Kamaq taytanchisman. Haylli-taki. A nuestro padre creador Túpac Amaru. Himno-canción.
+- 1966: Oda al jet.
+- 1969: Qollana Vietnam Llaqtaman / Al pueblo excelso de Vietnam.
+- 1972 – Katatay y otros poemas. Huc jayllikunapas. Poemas en versiones quechua y española. Publicado póstumamente por Sybila Arredondo de Arguedas.
