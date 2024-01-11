@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/jose-saramago/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122040407.png|200](/img/user/02%20Image/Pasted%20image%2020231122040407.png)
+![Pasted image 20231122040407.png|200](/img/user/02%20Image/Pasted%20image%2020231122040407.png)
 ## Novelas
 1. [[La viuda\|La viuda]] - 1947
 	- Terra do pecado. Impuesto por su primer editor.
