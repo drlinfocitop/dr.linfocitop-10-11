@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/el-primer-peruano-en-el-espacio/","noteIcon":""}
 ---
 
-- ![Pasted image 20231124021946.png|200](/img/user/02%20Image/Pasted%20image%2020231124021946.png)
+![Pasted image 20231124021946.png|200](/img/user/02%20Image/Pasted%20image%2020231124021946.png)
 ## Comentario
 
 - Historias favoritas:
