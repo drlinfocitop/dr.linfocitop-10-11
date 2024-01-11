@@ -8,8 +8,8 @@
 
 >[!tip] **Comunidad USMLE** 👨‍⚕️
 > - *Bancos de preguntas*
-> 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP1\|STEP1]] [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP2\|STEP2]] [[10 dr.linfocitop 👨‍⚕️/Anki\|Anki]] 
-> 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas EsSalud\|EsSalud-Perú]] [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas ENAM\|ENAM-Perú]] [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas Residentado Perú\|RM-Perú]] 
+> 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP1\|STEP1]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP2\|STEP2]] - [[10 dr.linfocitop 👨‍⚕️/Anki\|Anki]] 
+> 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas EsSalud\|EsSalud-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas ENAM\|ENAM-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas Residentado Perú\|RM-Perú]] 
 > - *Grupos*
 > 	- [[21 Redes sociales 🔗/🔗WhatsApp\|🔗WhatsApp]] [[21 Redes sociales 🔗/🔗Telegram\|🔗Telegram]] [[21 Redes sociales 🔗/🔗Discord\|🔗Discord]] 
 > - *Redes sociales*
