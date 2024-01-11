@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/julio-cortazar/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122034342.png|200](/img/user/02%20Image/Pasted%20image%2020231122034342.png)
+![Pasted image 20231122034342.png|200](/img/user/02%20Image/Pasted%20image%2020231122034342.png)
 ## Obras
 ### Novelas
 - [[Los Premios\|Los Premios]] 1960
