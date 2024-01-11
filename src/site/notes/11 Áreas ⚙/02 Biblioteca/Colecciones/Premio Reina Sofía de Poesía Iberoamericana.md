@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-reina-sofia-de-poesia-iberoamericana/","noteIcon":""}
+---
+
+
+## Ganadores
+- 1992 - [[Cinco visiones\|Cinco visiones]] - [[Gonzalo Rojas\|Gonzalo Rojas]]
+- 1993 - [[Hacia el canto\|Hacia el canto]] - [[Claudio Rodríguez\|Claudio Rodríguez]]
+- 1994 - [[A la medida de la mano\|A la medida de la mano]] - [[João Cabral de Melo Neto\|João Cabral de Melo Neto]]
+- 1995 - [[Nombres propios\|Nombres propios]] - [[José Hierro\|José Hierro]]
+- 1996 - [[Luz, o fuego, o vida\|Luz, o fuego, o vida]] - [[Ángel González\|Ángel González]]
+- 1997 - [[Summa de Maqroll el Gaviero. Poesía, 1948-1997\|Summa de Maqroll el Gaviero. Poesía, 1948-1997]] - [[Álvaro Mutis\|Álvaro Mutis]]
+- 1998 - [[El vuelo alto y ligero\|El vuelo alto y ligero]] - [[José Ángel Valente\|José Ángel Valente]]
+- 1999 - [[Los espejos las sombras\|Los espejos las sombras]] - [[Mario Benedetti\|Mario Benedetti]]
+- 2000 - [[Marea solar, marea lunar\|Marea solar, marea lunar]] - [[Pere Gimferrer\|Pere Gimferrer]]
+- 2001 - [[Páginas en blanco\|Páginas en blanco]] - [[Nicanor Parra\|Nicanor Parra]]
+- 2002 - [[Yo sólo sé nombrarte\|Yo sólo sé nombrarte]] - [[José Antonio Muñoz Rojas\|José Antonio Muñoz Rojas]]
+- 2003 - [[En la desnudez de la luz\|En la desnudez de la luz]] - [[Sophia de Mello Breyner\|Sophia de Mello Breyner]]
+- 2004 - [[Años y libros\|Años y libros]] - [[José Manuel Caballero Bonald\|José Manuel Caballero Bonald]]
+- 2005 - [[Oficio ardiente\|Oficio ardiente]] - [[Juan Gelman\|Juan Gelman]]
+- 2006 - [[Sílabas negras\|Sílabas negras]] - [[Antonio Gamoneda\|Antonio Gamoneda]]
+- 2007 - [[Aunque cueste la noche\|Aunque cueste la noche]] - [[Blanca Varela\|Blanca Varela]]
+- 2008 - [[Rama fiel\|Rama fiel]] - [[Pablo García Baena\|Pablo García Baena]]
+- 2009 - [[Contraelegía\|Contraelegía]] - [[José Emilio Pacheco\|José Emilio Pacheco]]
+- 2010 - [[Para quemar la noche\|Para quemar la noche]] - [[Francisco Brines\|Francisco Brines]]
+- 2011 - [[De qué, silencio, eres tú silencio...\|De qué, silencio, eres tú silencio...]] - [[Fina García Marruz\|Fina García Marruz]]
+- 2012 - [[Hidrógeno enamorado\|Hidrógeno enamorado]] - [[Ernesto Cardenal\|Ernesto Cardenal]]
+- 2013 - [[Devastación de sílabas\|Devastación de sílabas]] - [[Nuno Júdice\|Nuno Júdice]]
+- 2014 - [[El fruto de mi voz\|El fruto de mi voz]] - [[María Victoria Atencia\|María Victoria Atencia]]
+- 2015 - [[Todo de pronto es nada\|Todo de pronto es nada]] - [[Ida Vitale\|Ida Vitale]]
+- 2016 - [[Lumbres\|Lumbres]] - [[Antonio Colinas\|Antonio Colinas]]
+- 2017 - [[Aunque dure un instante\|Aunque dure un instante]] - [[Claribel Alegría\|Claribel Alegría]]
+- 2018 - [[No es mi rostro\|No es mi rostro]] - [[Rafael Cadenas\|Rafael Cadenas]]
+- 2019 - [[Viaje hacia la sombra\|Viaje hacia la sombra]] - [[Joan Margarit\|Joan Margarit]]
+- 2020 - [[Verás auroras como sangre\|Verás auroras como sangre]] - [[Raúl Zurita\|Raúl Zurita]]
+- 2021 - [[El exceso más perfecto\|El exceso más perfecto]] - [[Ana Luísa Amaral\|Ana Luísa Amaral]]
+- 2022 - [[La caída de Ícaro\|La caída de Ícaro]] - [[Olvido García Valdés\|Olvido García Valdés]]
+- 2023 - Obra literaria - [[Gioconda Belli\|Gioconda Belli]]
