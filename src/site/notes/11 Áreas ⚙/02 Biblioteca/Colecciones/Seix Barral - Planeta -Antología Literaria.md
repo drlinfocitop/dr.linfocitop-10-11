@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/seix-barral-planeta-antologia-literaria/","noteIcon":""}
+---
+
+- Asesinato en el Comité Central
+- Barrio de Maravillas
+- Bearn o la sala de las muñecas
+- Billar a las nueve y media
+- Cuatro para Delfina
+- Don Camilo
+- Edad prohibida
+- El amante de lady Chatterley
+- El cuarto de los espejos
+- El décimo hombre
+- El Giocondo
+- El hombre que fue jueves
+- El misterio de la cripta embrujada
+- El siglo de las luces
+- Kim
+- La Rosa de Alejandría
+- La verdad sobre el caso Savolta
+- Las aventuras del caballero Kosmas
+- Las peras del olmo
+- Los cipreses creen en Dios
+- Los jinetes del alba
+- Mariona Rebull
+- Médicos en peligro
+- Mientras la ciudad duerme
+- Opiniones de un payaso
+- Pantaleón y las visitadoras
+- Ronda de Guinardó
+- Sangre de amor correspondido
+- Señas de identidad
+- Sobre héroes y tumbas
+- Tallo de hierro
+- Tiempo de silencio
+- Ultimas tardes con Teresa
+- Un novelista en el Museo del Prado
+- Una mujer llega al pueblo
