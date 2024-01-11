@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/h-g-wells/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122042411.png|200](/img/user/02%20Image/Pasted%20image%2020231122042411.png)
+![Pasted image 20231122042411.png|200](/img/user/02%20Image/Pasted%20image%2020231122042411.png)
 ## Novelas
 - [[La máquina del tiempo\|La máquina del tiempo]] (The Time Machine) (1895)
 - La visita maravillosa (The Wonderful Visit) (1895)
