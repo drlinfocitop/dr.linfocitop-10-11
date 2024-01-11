@@ -12,11 +12,11 @@
 - [[00 Home 🌐/Apariencia Obsidian\|Apariencia Obsidian]]
 - [[00 Home 🌐/Datos Personales 👨‍💼\|Datos Personales 👨‍💼]]
 - [[00 Home 🌐/Home\|Home]]
-- [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/Plantillas/Plantilla autor\|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
+- [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores\|📚 Antropología autores]]
 - [[00 Home 🌐/📚 Antropología libros activos\|📚 Antropología libros activos]]
 
@@ -25,11 +25,11 @@
 - [[00 Home 🌐/Apariencia Obsidian\|Apariencia Obsidian]]
 - [[00 Home 🌐/Datos Personales 👨‍💼\|Datos Personales 👨‍💼]]
 - [[00 Home 🌐/Home\|Home]]
-- [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/Plantillas/Plantilla autor\|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
+- [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores\|📚 Antropología autores]]
 - [[00 Home 🌐/📚 Antropología libros activos\|📚 Antropología libros activos]]
 
@@ -40,11 +40,11 @@
 - [[00 Home 🌐/Apariencia Obsidian.md|Apariencia Obsidian]]
 - [[00 Home 🌐/Datos Personales 👨‍💼.md|Datos Personales 👨‍💼]]
 - [[00 Home 🌐/Home.md|Home]]
-- [[00 Home 🌐/Trivia libro - autor.md|Trivia libro - autor]]
 - [[00 Home 🌐/Plantillas/Plantilla autor\|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
+- [[00 Home 🌐/Trivia libro - autor.md|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores.md|📚 Antropología autores]]
 - [[00 Home 🌐/📚 Antropología libros activos.md|📚 Antropología libros activos]]
 
@@ -53,11 +53,11 @@
 - [[00 Home 🌐/Apariencia Obsidian.md|Apariencia Obsidian]]
 - [[00 Home 🌐/Datos Personales 👨‍💼.md|Datos Personales 👨‍💼]]
 - [[00 Home 🌐/Home.md|Home]]
-- [[00 Home 🌐/Trivia libro - autor.md|Trivia libro - autor]]
 - [[00 Home 🌐/Plantillas/Plantilla autor\|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
+- [[00 Home 🌐/Trivia libro - autor.md|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores.md|📚 Antropología autores]]
 - [[00 Home 🌐/📚 Antropología libros activos.md|📚 Antropología libros activos]]
 
@@ -67,15 +67,15 @@
 ````
 - [[00 Home 🌐/Plantillas/Plantilla autor.md|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma.md|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro.md|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 
 { .block-language-dataview}
 ````
 - [[00 Home 🌐/Plantillas/Plantilla autor.md|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma.md|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro.md|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 
 { .block-language-dataview}
 ---
@@ -101,8 +101,8 @@
 ````
 - [[00 Home 🌐/Plantillas/Plantilla autor.md|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma.md|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro.md|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[10 dr.linfocitop 👨‍⚕️/Markdown.md|Markdown]]
 - [[10 dr.linfocitop 👨‍⚕️/DataviewJS.md|DataviewJS]]
 - [[10 dr.linfocitop 👨‍⚕️/Dataview.md|Dataview]]
@@ -113,8 +113,8 @@
 ````
 - [[00 Home 🌐/Plantillas/Plantilla autor.md|Plantilla autor]]
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma.md|Plantilla libro - otro idioma]]
-- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro.md|Plantilla libro]]
+- [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal.md|Plantilla libro repositorio legal]]
 - [[10 dr.linfocitop 👨‍⚕️/Markdown.md|Markdown]]
 - [[10 dr.linfocitop 👨‍⚕️/DataviewJS.md|DataviewJS]]
 - [[10 dr.linfocitop 👨‍⚕️/Dataview.md|Dataview]]
