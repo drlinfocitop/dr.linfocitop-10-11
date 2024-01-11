@@ -1,0 +1,141 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-nacional-de-cultura-peru/","noteIcon":""}
+---
+
+
+## Ganadores
+- 1942
+	- *Pintura* - Ignacio Merino
+	- *Historia y Geografía* - [[Inca Garcilaso de la Vega\|Inca Garcilaso de la Vega]]
+	- *Poesía* - [[José Santos Chocano\|José Santos Chocano]]
+	- *Novela* - [[Ricardo Palma\|Ricardo Palma]]
+	- *Derecho* - Francisco Gracía-Calderón
+	- *Música* - Luis Duncker Lavalle
+	- *Escultura* - Baltazar Gavilán
+	- *Periodismo* - Antonio Miró Quesada
+	- *Medicina* - Hipólito Unanue
+	- *Filosofía y Educación* - Manuel González Prada
+	- *Tesis Universitaria* - Javier Prado
+	- *Investigación Científica y Ensayo* - Daniel Alcides Carrión
+- 1944
+	- *Poesía* - Mario Florián Díaz
+- 1945
+	- *Poesía* - Jorge Eduardo Eielson
+- 1946
+	- *Pintura* - Camilo Blas
+	- *Poesía* - [[Martín Adán\|Martín Adán]]
+	- *Periodismo* - Jorge Puccinelli Converso
+- 1947
+	- *Pintura* - Juan Manuel Ugarte Eléspuru
+- 1950
+	- *Pintura* - Carlos Quizpez Asín
+- 1952
+	- *Pintura* - Cota Carvallo
+	- *Filosofía y Educación* - Jorge Puccinelli Converso 
+- 1953
+	- *Derecho* - Remigio Pino Carpio
+	- *Música* - [[Francisco Pulgar Vidal\|Francisco Pulgar Vidal]]
+	- *Poesía* - Washington Delgado
+	- *Pintura* - Alberto Dávila Zavala
+- 1954
+	- *Música* - [[Francisco Pulgar Vidal\|Francisco Pulgar Vidal]]
+- 1955
+	- *Poesía* - Demetrio Quiroz Malca
+	- *Periodismo* - Manuel Jesús Orbegozo
+- 1956
+	- *Investigación Científica y Ensayo* - Fernando Cabieses
+	- *Pedagogía* - Luis Jaime Cisneros
+	- *Poesía* - [[Manuel Scorza\|Manuel Scorza]]
+- 1957
+	- *Novela* - Mario Florián Díaz
+	- *Literatura Infantil* - Cota Carvallo
+- 1958
+	- *Tesis Universitaria* - [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]
+- 1959
+	- *Poesía* - Eleodoro Vargas Vicuña
+	- *Pintura* - Teodoro Núñez Ureta
+	- *Medicina* - Javier Arias-Stella
+	- *Novela* - Esteban Pavletich
+- 1960
+	- *Novela* - [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]
+	- *Pintura* - Enrique Galdos Rivas
+- 1962
+	- *Poesía* - Carlos Germán Belli de la Torre
+	- *Investigación Científica y Ensayo* - Martha Hildebrandt
+	- *Novela* - [[11 Áreas ⚙/01 Humanos/José María Arguedas\|José María Arguedas]]
+- 1963
+	- *Pedagogía* - Luis Jaime Cisneros
+	- *Poesía* - Arturo Corcuera
+	- *Novela* - Francisco Izquierdo Ríos
+- 1964
+	- *Poesía* - Antonio Cisneros
+- 1965
+	- *Poesía* - Cecilia Bustamante
+	- *Poesía* - Reynaldo Naranjo
+- 1966
+	- *Poesía* - Francisco Bendezú Prieto
+- 1967
+	- *Novela* - [[11 Áreas ⚙/01 Humanos/Mario Vargas Llosa\|Mario Vargas Llosa]]
+	- *Pintura* - Venancio Shinki
+	- *Periodismo* - Augusto Tamayo Vargas
+- 1968
+	- *Novela* - Marcos Yauri Montero
+	- *Poesía* - Alejandro Peralta Miranda
+	- *Historia y Geografía* - [[José Antonio del Busto\|José Antonio del Busto]]
+- 1969
+	- *Novela* - Eduardo González Viaña
+	- *Poesía* - Marco Martos
+	- *Investigación Científica y Ensayo* - Martha Hildebrandt
+- 1971
+	- *Poesía* - Fernando Vidal
+	- *Poesía* - Juan Cristóbal
+- 1972
+	- *Novela* - [[11 Áreas ⚙/01 Humanos/Alfredo Bryce Echenique\|Alfredo Bryce Echenique]]
+	- *Literatura Infantil* - Jorge Díaz Herrera
+- 1973
+	- *Novela* - José Antonio Bravo
+- 1975
+	- *Literatura* - [[11 Áreas ⚙/01 Humanos/César Calvo\|César Calvo]]
+	- *Ciencias Humanas* - [[11 Áreas ⚙/01 Humanos/Jorge Basadre\|Jorge Basadre]]
+- 1976
+	- *Arte* - Joaquín López Antay
+- 1977
+	- *Literatura* - Luis Alberto Sánchez Sánchez
+	- *Literatura* - Emilio Adolfo Westphalen
+	- *Arte* - Julia Codesido
+- 1980
+	- *Ciencias Biológicas y Naturales* - Julio Óscar Trelles Montes
+- 1983
+	- *Literatura* - [[11 Áreas ⚙/01 Humanos/Julio Ramón Ribeyro\|Julio Ramón Ribeyro]]
+### 2012 - 3 categorías
+- 2012
+	- *Buenas prácticas institucionales* - Asociación Taller de Educación y Comunicación a través del Arte. Arena y Esteras
+	- *Creatividad* - Christian Bendayán
+	- *Trayectorias* - Gustavo Gutiérrez
+- 2013
+	- *Buenas prácticas institucionales* - Asociación Contisuyo
+	- *Creatividad* - Edgardo Rivera Martínez
+	- *Trayectorias* - Rodolfo Hinostroza
+- 2014
+	- *Buenas prácticas institucionales* - La Tarumba
+	- *Creatividad* - Luis Quequezana
+	- *Trayectorias* - Francisco José Lombardi
+- 2015
+	- *Buenas prácticas institucionales* - Reniec
+	- *Creatividad* - Gonzalo Portocarrero
+	- *Trayectorias* - Julio Cotler
+- 2016
+	- *Buenas prácticas institucionales* - Fundación Augusto N. Wiese
+	- *Creatividad* - Ricardo Dolorier Urbano
+	- *Trayectorias* - Carlos Germán Belli
+- 2017
+	- *Buenas prácticas institucionales* - Asociación Museo de Arte de Lima
+	- *Creatividad* - Oscar Ricardo Naters Burger
+	- *Trayectorias* - Susana Baca
+- 2018
+	- *Buenas prácticas institucionales* - Centro Cultural La Gran Marcha de los Muñecones
+	- *Creatividad* - Juan Raúl Cadillo León
+	- *Trayectorias* - Luis Ángel Humberto Rodríguez Pastor
+- 2019
+	- *Buenas prácticas institucionales* - Asociación Selvámonos
+	- *Trayectorias* - Miguel Rubio Zapata
