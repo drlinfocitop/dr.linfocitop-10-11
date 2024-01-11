@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/jose-maria-arguedas/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122040831.png|200](/img/user/02%20Image/Pasted%20image%2020231122040831.png)
+![Pasted image 20231122040831.png|200](/img/user/02%20Image/Pasted%20image%2020231122040831.png)
 ## Novelas
 - [[Yawar fiesta\|Yawar fiesta]] - 1941
 	- Revisada en 1958.
