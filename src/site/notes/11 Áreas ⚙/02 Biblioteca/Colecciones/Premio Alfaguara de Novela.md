@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-alfaguara-de-novela/","noteIcon":""}
+---
+
+
+## Ganadores
+- 1965 - [[Las corrupciones\|Las corrupciones]] - [[Jesús Torbado\|Jesús Torbado]]
+- 1966 - [[Pascua y naranjas\|Pascua y naranjas]] - [[Manuel Vicent\|Manuel Vicent]]
+- 1967 - [[Fauna\|Fauna]] - [[Héctor Vázquez-Azpiri\|Héctor Vázquez-Azpiri]]
+- 1968 - [[Corte de corteza\|Corte de corteza]] - [[Daniel Sueiro\|Daniel Sueiro]]
+- 1969 - **Desierto**
+- 1970 - [[Todas esas muertes\|Todas esas muertes]] - [[Carlos Droguett\|Carlos Droguett]]
+- 1971 - [[Leña verde\|Leña verde]] - [[Luis Berenguer\|Luis Berenguer]]
+- 1972 - [[Florido mayo\|Florido mayo]] - [[Alfonso Grosso\|Alfonso Grosso]]
+- 1973 - 1997 - **No convocado**
+- 1998
+	- [[Caracol Beach\|Caracol Beach]] - [[Eliseo Alberto\|Eliseo Alberto]]
+	- [[Margarita, está linda la mar\|Margarita, está linda la mar]] - [[Sergio Ramírez\|Sergio Ramírez]]
+- 1999 - [[Son de mar\|Son de mar]] - [[Manuel Vicent\|Manuel Vicent]]
+- 2000 - [[Últimas noticias del paraíso\|Últimas noticias del paraíso]] - [[Clara Sánchez\|Clara Sánchez]]
+- 2001 - [[La piel del cielo\|La piel del cielo]] - [[Elena Poniatowska\|Elena Poniatowska]]
+- 2002 - [[El vuelo de la reina\|El vuelo de la reina]] - [[Tomás Eloy Martínez\|Tomás Eloy Martínez]]
+- 2003 - [[Diablo guardián\|Diablo guardián]] - [[Xavier Velasco\|Xavier Velasco]]
+- 2004 - [[Delirio\|Delirio]] - [[Laura Restrepo\|Laura Restrepo]]
+- 2005 - [[El turno del escriba\|El turno del escriba]] - [[Graciela Montes\|Graciela Montes]] / [[Ema Wolf\|Ema Wolf]]
+- 2006 - [[Abril rojo\|Abril rojo]] - [[Santiago Roncagliolo\|Santiago Roncagliolo]]
+- 2007 - [[Mira si yo te querré\|Mira si yo te querré]] - [[Luis Leante\|Luis Leante]]
+- 2008 - [[Chiquita\|Chiquita]]​ - [[Antonio Orlando Rodríguez\|Antonio Orlando Rodríguez]]
+- 2009 - [[El viajero del siglo\|El viajero del siglo]] - [[Andrés Neuman\|Andrés Neuman]]
+- 2010 - [[El arte de la resurrección\|El arte de la resurrección]] - [[Hernán Rivera Letelier\|Hernán Rivera Letelier]]
+- 2011 - [[El ruido de las cosas al caer\|El ruido de las cosas al caer]]​ - [[Juan Gabriel Vásquez\|Juan Gabriel Vásquez]]
+- 2012 - [[Una misma noche\|Una misma noche]] - [[Leopoldo Brizuela\|Leopoldo Brizuela]]
+- 2013 - [[La invención del amor​\|La invención del amor​]] - [[José Ovejero\|José Ovejero]]
+- 2014 - [[El mundo de afuera\|El mundo de afuera]] - [[Jorge Franco\|Jorge Franco]]
+- 2015 - [[Contigo en la distancia\|Contigo en la distancia]] - [[Carla Guelfenbein\|Carla Guelfenbein]]
+- 2016 - [[La noche de la Usina\|La noche de la Usina]]​ - [[Eduardo Sacheri\|Eduardo Sacheri]]
+- 2017 - [[Rendición\|Rendición]] - [[Ray Loriga\|Ray Loriga]]
+- 2018 - [[Una novela criminal\|Una novela criminal]]​ - [[Jorge Volpi\|Jorge Volpi]]
+- 2019 - [[Mañana tendremos otros nombres\|Mañana tendremos otros nombres]]​ - [[Patricio Pron\|Patricio Pron]]
+- 2020 - [[Salvar el fuego\|Salvar el fuego]] - [[Guillermo Arriaga\|Guillermo Arriaga]]
+- 2021 - [[Los abismos\|Los abismos]] - [[Pilar Quintana\|Pilar Quintana]]
+- 2022 - [[El tercer paraíso\|El tercer paraíso]] - [[Cristian Alarcón Casanova\|Cristian Alarcón Casanova]]
+- 2023 - [[Cien cuyes\|Cien cuyes]] - [[Gustavo Rodríguez\|Gustavo Rodríguez]]
