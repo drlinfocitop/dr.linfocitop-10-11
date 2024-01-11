@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/jaime-bayly/","noteIcon":""}
 ---
 
-
-- ![Pasted image 20231122041945.png|200](/img/user/02%20Image/Pasted%20image%2020231122041945.png)
+ ![Pasted image 20231122041945.png|200](/img/user/02%20Image/Pasted%20image%2020231122041945.png)
 ## Novela
 1. [[11 Áreas ⚙/02 Biblioteca/No se lo digas a nadie\|No se lo digas a nadie]] - 1994
 	- [[11 Áreas ⚙/02 Biblioteca/Editoriales/📔 Seix Barral\|📔 Seix Barral]] ❌
