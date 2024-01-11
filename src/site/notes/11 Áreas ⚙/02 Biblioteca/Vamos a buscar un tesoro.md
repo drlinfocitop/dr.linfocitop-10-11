@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/vamos-a-buscar-un-tesoro/","noteIcon":""}
+---
+
+- ![Pasted image 20231128235948.png|200](/img/user/02%20Image/Pasted%20image%2020231128235948.png)
