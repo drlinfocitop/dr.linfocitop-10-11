@@ -3,7 +3,7 @@
 ---
 
 
-- ![Pasted image 20231104134811.png|200](/img/user/02%20Image/Pasted%20image%2020231104134811.png)
+![Pasted image 20231104134811.png|200](/img/user/02%20Image/Pasted%20image%2020231104134811.png)
 ## Relatos
 - Carnaval Negro - Dark Carnival, 1947
 - Las momias de Guanajuato - The Mummies of Guanajuato, 1947
