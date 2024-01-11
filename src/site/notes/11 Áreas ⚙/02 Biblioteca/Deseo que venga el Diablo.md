@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/deseo-que-venga-el-diablo/","noteIcon":""}
 ---
 
-- ![Pasted image 20231123045215.png|200](/img/user/02%20Image/Pasted%20image%2020231123045215.png)
+![Pasted image 20231123045215.png|200](/img/user/02%20Image/Pasted%20image%2020231123045215.png)
 ## Comentario
 - Transmite el ímpetu de la juventud, se siente su alegoría al Diablo sobre lo desconocido y la malicia masculina, cuando habla de villano o del necio, del intelectual y del ladrón. 
 - En el epílogo posterior cuenta sin sorprender el cambio y la imposibilidad de volver a escribir con tanta estridencia.
