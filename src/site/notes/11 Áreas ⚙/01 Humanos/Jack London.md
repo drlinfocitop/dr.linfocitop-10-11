@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/jack-london/","noteIcon":""}
 ---
 
-- ![Pasted image 20231129033640.png|200](/img/user/02%20Image/Pasted%20image%2020231129033640.png)
+![Pasted image 20231129033640.png|200](/img/user/02%20Image/Pasted%20image%2020231129033640.png)
 ## Obras
 ### Novelas
 - 1902 - [[The Cruise of the Dazzler\|The Cruise of the Dazzler]]
