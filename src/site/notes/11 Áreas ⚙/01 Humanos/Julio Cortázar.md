@@ -1,0 +1,142 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/01-humanos/julio-cortazar/","noteIcon":""}
+---
+
+- ![Pasted image 20231122034342.png|200](/img/user/02%20Image/Pasted%20image%2020231122034342.png)
+## Obras
+### Novelas
+- [[Los Premios\|Los Premios]] 1960
+- [[Rayuela\|Rayuela]] 1963
+- [[62 Modelo para armar\|62 Modelo para armar]] 1968
+- [[Divertimento\|Divertimento]] 1986 (escrita 1949)
+- [[El examen\|El examen]] 1986 (escrita 1950)
+### Cuentos
+- [[Bestiario\|Bestiario]] 1951
+	- Casa tomada
+	- Carta a una señorita en París
+	- Lejana
+	- Ómnibus
+	- Cefalea
+	- Circe
+	- Las puertas del cielo
+	- Bestiario
+- [[Final del juego\|Final del juego]] 1956
+	- I
+		- Continuidad de los parques
+		- No se culpe a nadie
+		- El río
+		- Los venenos
+		- La puerta condenada
+		- Las Ménades
+	- II
+		- El ídolo de las Cícladas
+		- Una flor amarilla
+		- Sobremesa
+		- La banda
+		- Los amigos
+		- El móvil
+		- Torito
+	- III
+		- Relato con un fondo de agua
+		- Después del almuerzo
+		- Axoloti
+		- La noche boca arriba
+		- Final del juego
+- [[Las armas secretas\|Las armas secretas]] 1959
+	- Los buenos servicios
+	- El perseguidor
+	- Las armas secretas
+- [[11 Áreas ⚙/02 Biblioteca/Todos los fuegos el fuego\|Todos los fuegos el fuego]] 1966
+	- La autopista del sur
+	- La salud de los enfermos
+	- Reunión
+	- La Señorita Cora
+	- La isla al mediodía
+	- Instrucciones para John Howell
+	- Todos los fuegos el fuego
+	- El otro cielo
+- [[Octaedro\|Octaedro]] 1974
+	- Lugar llamado Kindberg
+	- Manuscrito hallado en un bolsillo
+	- Las fases de Severo
+	- Liliana llorando
+	- Ahí pero dónde, cómo
+	- Los pasos en las huellas
+	- Verano
+	- Cuello de gato negro
+- [[Alguien que anda por ahí\|Alguien que anda por ahí]] 1977
+	- Cambio de luces
+	- Vientos alisios
+	- Segunda vez
+	- Usted se tendió a tu lado
+	- En nombre de Boby
+	- Apocalipsis de Solentiname
+	- La barca o nueva visita a Venecia
+	- Reunión con un círculo rojo
+	- Las caras de la medalla
+	- Alguien que anda por ahí
+	- La noche de Mantequilla
+- [[Queremos tanto a Glenda\|Queremos tanto a Glenda]] 1981
+	- I
+		- Orientación de los gatos
+		- Queremos tanto a Glenda
+		- Historia con migalas
+	- II 
+		- Texto en una libreta
+		- Recortes de prensa
+		- Tango de vuelta
+	- III
+		- Clone
+		- Graffiti
+		- Historias que me cuento
+		- Anillo de Moebius
+- [[Deshoras\|Deshoras]] 1982
+	- Botella al mar
+	- Fin de etapa
+	- Segundo viaje
+	- Starsa
+	- La escuela de noche
+	- Deshoras
+	- Pesadillas
+	- Diario para un cuento
+- [[La otra orilla\|La otra orilla]] 1994 (escrito entre 1937-1945)
+	- Plagios y traducciones
+		- El hijo del vampiro
+		- Las manos que crecen
+		- Llama el teléfono, Delia
+		- Profunda siesta de Remi
+		- Puzzle
+	- Historia de Gabriel Medrano
+		- Retorno de la noche
+		- Bruja
+		- Mudanza
+		- Distante espejo
+	- Prolegómenos a la astronomía
+		- De la simetría interplanetaria
+		- Los limpiadores de estrellas
+		- Breve curso de oceanografía
+		- Estación de la mano
+### Prosas breves
+- Historias de cronopios y de famas 1962
+- Un tal Lucas 1979
+### Misceláneas
+1. La vuelta al día en ochenta mundos 1967
+2. Libro de Manuel 1973
+
+
+## Recopilaciones
+- [[11 Áreas ⚙/02 Biblioteca/Casa tomada y otros cuentos\|Casa tomada y otros cuentos]] - [[Serie Roja - Alfaguara\|Serie Roja - Alfaguara]]
+	- Casa tomada
+	- Lejana
+	- Continuidad de los parques
+	- Los venenos
+	- La noche boca arriba
+	- Las armas secretas
+	- Instrucciones para llorar
+	- Instrucciones para dar cuerda al reloj
+	- Simulacros
+	- Conducta en los velorios
+	- Acefalia
+	- Cuento sin moraleja
+	- La salud de los enfermos
+	- El otro cielo
