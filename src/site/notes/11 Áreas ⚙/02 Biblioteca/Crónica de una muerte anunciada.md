@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/cronica-de-una-muerte-anunciada/","noteIcon":""}
 ---
 
-- ![Pasted image 20231201052548.png|200](/img/user/02%20Image/Pasted%20image%2020231201052548.png)
+![Pasted image 20231201052548.png|200](/img/user/02%20Image/Pasted%20image%2020231201052548.png)
 ## Comentario
 - Libro interesante, desde el inicio ya se supone la muerte de Santiago Nasar como algo aceptado por todos los personajes. La narración se acompaña de creencias y dichos que revelan la cosmovisión (realismo-mágico) de esta ciudad, vamos reconociendo su propia identidad, mientras descubrimos como acontece la muerte y las repercusiones de la muerte de un rico, y el rechazo de una esposa no virgen.
 ## Personajes
