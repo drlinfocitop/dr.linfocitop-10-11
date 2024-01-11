@@ -1,0 +1,77 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/01-humanos/h-p-lovecraft/","noteIcon":""}
+---
+
+- ![Pasted image 20231122042839.png|200](/img/user/02%20Image/Pasted%20image%2020231122042839.png)
+## Novelas
+- La botellita de cristal - 1898-1899
+- La cueva secreta - 1898-1899
+- El misterio del cementerio - 1898-1899
+- El buque misterioso - 1902
+- La bestia de la cueva - 1905
+- El alquimista - 1908
+- La tumba - 1917
+- Dagón - 1917
+- Una semblanza del Doctor Johnson - 1917
+- La dulce Ermengarde - impreciso - quizás 1919-1921
+- Polaris - 1918
+- Al otro lado de la barrera del sueño - 1919
+- Memoria - 1919
+- El viejo Bugs - 1919
+- La transición de Juan Romero - 1919
+- La nave blanca - 1919
+- La maldición que cayó sobre Sarnath - 1919
+- El testimonio de Randolph Carter - 1919
+- El viejo terrible - 1920
+- El árbol - 1920
+- [[Los gatos de Ulthar\|Los gatos de Ulthar]] - 1920
+- El templo - 1920
+- Arthur Jermyn - 1920
+- La calle - finales 1919
+- Celephaïs - 1920
+- Del más allá - 1920
+- Nyarlathotep - 1920
+- La lámina de la casa - 1920
+- Ex Oblivione - 1920-1921
+- La ciudad sin nombre - 1921
+- La búsqueda de Iranon - 1921
+- La ciénaga-luna - 1921
+- El extraño - 1921
+- Los otros dioses - 1921
+- La música de Erich Zann - 1921
+- Herbert West - reanimador - 1921-1922
+- Hipno - 1922
+- Lo que trae la luna - 1922
+- Azathoth - 1922
+- El sabueso - 1922
+- El miedo que acecha - 1922
+- Las ratas de las paredes - 1923
+- Lo innominable - 1923
+- El ceremonial - 1923
+- La casa evitada - 1924
+- El horror de Red Hook - 1925
+- Él - 1925
+- En la cripta - 1925
+- El descendiente - 1925
+- Aire frío - 1926
+- [[La llamada de Cthulhu\|La llamada de Cthulhu]] - 1926
+- El modelo de Pickman - 1926
+- La extraña casa elevada entre la niebla - 1926
+- [[La búsqueda en sueños de la ignota Kadath\|La búsqueda en sueños de la ignota Kadath]] - 1926-1927
+- La llave de plata - 1926
+- [[El caso de Charles Dexter Ward\|El caso de Charles Dexter Ward]] - 1927
+- El color del espacio exterior - 1927
+- Gente muy antigua - 1927
+- Historia del Necronomicon - 1927
+- Ibid - 1928
+- El horror de Dunwich - 1928
+- El que susurra en la oscuridad - 1930
+- [[En las montañas de la locura\|En las montañas de la locura]] - 1931
+- [[La sombra sobre Innsmouth\|La sombra sobre Innsmouth]] - 1931
+- Los sueños en la casa de la bruja - 1932
+- A través de las puertas de la llave de plata - 1932-1933
+- El ser del umbral - 1933
+- El clérigo malvado - 1933
+- El libro - 1933
+- [[La sombra de otro tiempo\|La sombra de otro tiempo]] - 1934-1935
+- El asiduo de las tinieblas - 1935
