@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/isabel-allende/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122034051.png|200](/img/user/02%20Image/Pasted%20image%2020231122034051.png)
+![Pasted image 20231122034051.png|200](/img/user/02%20Image/Pasted%20image%2020231122034051.png)
 ## Novela
 1. [[La abuela Panchita\|La abuela Panchita]] - 1974
 	- Infantil
