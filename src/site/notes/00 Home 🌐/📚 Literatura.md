@@ -7,11 +7,11 @@
  ![cover_L.png|200](/img/user/02%20Image/cover_L.png)
 
 >[!note] Índice
->- [[00 Home 🌐/📚 Literatura#Textos académicos\|Textos académicos]]
->- [[00 Home 🌐/📚 Literatura#Literatura peruana\|#Literatura peruana]]
->- [[00 Home 🌐/📚 Literatura#Literatura clásicos universales\|#Literatura clásicos universales]]
->- [[00 Home 🌐/📚 Literatura#Literatura latinoamericana\|#Literatura latinoamericana]]
->- [[00 Home 🌐/📚 Literatura#Actualidad en Literatura\|#Actualidad en Literatura]]
+>- [[00 Home 🌐/📚 Literatura# Textos académicos\|Textos académicos ➡]]
+>- [[00 Home 🌐/📚 Literatura#Literatura peruana\|Literatura peruana]]
+>- [[00 Home 🌐/📚 Literatura#Literatura clásicos universales\|Literatura clásicos universales]]
+>- [[00 Home 🌐/📚 Literatura#Literatura latinoamericana\|Literatura latinoamericana]]
+>- [[00 Home 🌐/📚 Literatura#Actualidad en Literatura\|Actualidad en Literatura]]
 # Textos académicos
 | Tapa                                                                                                 | Título                                                                                                                                 | Autor                                                | Leído | Virtual | Editorial                                                                    |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----- | ------- | ---------------------------------------------------------------------------- |
