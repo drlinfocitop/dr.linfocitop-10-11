@@ -1,0 +1,107 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/orbis-biblioteca-grandes-exitos/","noteIcon":""}
+---
+
+
+- ![Pasted image 20231124011649.png|340](/img/user/02%20Image/Pasted%20image%2020231124011649.png)
+## Títulos
+- 1. Padrino - Mario Puzo
+- 2. [[El gran Gatsby\|El gran Gatsby]]
+- 3. Avenida del parque 79
+- 4. La semilla del diablo
+- 5. Miedo a volar
+- 6. Hombre rico, hombre pobre I - Irwing Shaw
+- 7. Hombre rico, hombre pobre I - Irwing Shaw
+- 8. El Quinto Jinete - Dominique Lapierre - Larry Collins
+- 9. Peyton Place - Grace Metalios
+- 10. Los profanadores del amor - Harold Robbins
+- 11. Lo que el viento se llevó I - Margaret Mitchell
+- 12. Lo que el viento se llevó I - Margaret Mitchell
+- 13. [[11 Áreas ⚙/02 Biblioteca/Matar un Ruiseñor\|Matar un Ruiseñor]] - [[Harper Lee\|Harper Lee]]
+- 14. Cumbres Borrascosas
+- 15. Sayonara
+- 16. Papillon
+- 17. Cuerpos y almas I
+- 18. Cuerpos y almas II
+- 19. Dallas - Lee Raintree
+- 20. El valle de las muñecas - Jacqueline Sussan
+- 21. Sinuhé, el egipcio I - Mika Waltari
+- 22. Sinuhé, el egipcio II - Mika Waltari
+- 23. Estación Victoria a las 4:30 - Cecil Roberts
+- 24. De aquí a la eternidad I - James Jones
+- 25. De aquí a la eternidad II - James Jones
+- 26. El camarada Don Camilo - Giovanni Guareschi
+- 27. El grito de la lechuza - Patricia Highsmith
+- 28. Los aventureros I - Harold Robbins
+- 29. Los aventureros II - Harold Robbins
+- 30. Verano del 42 - Herman Raucher
+- 31. Un mundo feliz - Aldoux Huxley
+- 32. La hora 25 - C. Virgil Gheirghiu
+- 33. Love Story - Erich Segal
+- 34. El manantial I - Ayn Rand
+- 35. El manantial II - Ayn Rand
+- 36. Mandingo - Kyle Onstott
+- 37. Que el cielo la juzgue - Ben Ames Williams
+- 38. Viva María - Jean-Claude Carriere
+- 39. Los pájaros - Daphne Du Maurier
+- 40. Los que vivimos I - Ayn Rand
+- 41. Los que vivimos II - Ayn Rand
+- 42. La señora de Mellyn
+- 43. El abogado del diablo
+- 44. Aeropuerto
+- 45. Esta noche, la libertad I
+- 46. Esta noche, la libertad II
+- 47. La estirpe del dragón
+- 48. Tiburón
+- 49. Viento del este, viento del oeste
+- 50. Rascacielos
+- 51. El dios de la lluvia llora sobre Méjico I
+- 52. El dios de la lluvia llora sobre Méjico I
+- 53. Veinticuatro horas de la vida de una mujer
+- 54. La piel
+- 55. El griego I
+- 56. El griego II
+- 57. Clarisa
+- 58. West Side Story
+- 59. El cirujano
+- 60. Como un Torrente I
+- 61. Como un Torrente II
+- 62.
+- 63. La curandera
+- 64. Desnuda por el mundo I
+- 65. Desnuda por el mundo II
+- 66.
+- 67. Shogun I 
+- 68. Shogun II
+- 69. 
+- 70. Diario de un cura rural
+- 71. El hombre del brazo de oro
+- 72. Las barreras de la pasión
+- 73. Al este del Edén I
+- 74. Al este del Edén II
+- 75. El parque Gorki
+- 76. Los cañones de Navarone
+- 77. Los inmigrantes
+- 78. La niñera
+- 79. Chacal
+- 80. Odessa
+- 81. 
+- 82. 
+- 83. Rebeca
+- 84.
+- 85.
+- 86. La escapada
+- 87. El coleccionista
+- 88. El conformista
+- 89. 
+- 90. 
+- 91. 
+- 92. La campesina
+- 93. El filo de la navaja
+- 94. 
+- 95.
+- 96. Los indiferentes
+- 97. El camino del Tabaco
+- 98. 
+- 99.
+- 100. 
