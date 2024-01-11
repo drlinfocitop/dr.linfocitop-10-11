@@ -1,0 +1,227 @@
+---
+{"dg-publish":true,"permalink":"/10-dr-linfocitop/digital-garden/","noteIcon":""}
+---
+
+#obsidian 
+- **Temas disponibles**
+	- Default - No soporta light
+	- A Chime
+	- Neon
+	- Abecedarium
+	- AbsoluteGruv
+	- Adwaita
+	- Al Dente
+	- Amethyst
+	- Anuppuccin
+	- Apatheia
+	- Aqua
+	- Ars Magna
+	- Atom
+	- Atomus
+	- Aura
+	- Aura Dark
+	- Aurora
+	- Autotape
+	- Ayu
+	- Ayu mirage
+	- Base2Tone
+	- Behave dark
+	- Big & Bold
+	- Blackbird
+	- Blue Topaz
+	- Bolt
+	- Border
+	- Brutalism
+	- Bubble Space
+	- Buena Vista
+	- Carbon
+	- Cardstock
+	- Carmelian
+	- Carpe Noctem
+	- Catppucin
+	- Celestial Night
+	- Charcoal
+	- Christmas
+	- Comfort
+	- Comfort color dark
+	- Comfort Dark
+	- Comfort Smooth
+	- Covert
+	- Creature
+	- Cyber Glow
+	- Cybertron
+	- Cybertron Shifted
+	- Dark Graphite
+	- Dark Graphite Pie
+	- Dark Moss
+	- Dartyan
+	- Dawn
+	- Dayspring
+	- deeper work
+	- Dekurai
+	- Discordian
+	- Doctorfree
+	- Dracula + LYT
+	- Dracula for Obsidian
+	- Dracula Gemini
+	- Dracula Oficial
+	- Dracula Plus 
+	- Dracula Slim
+	- Dune
+	- Ebulientworks
+	- Elegance
+	- Emerald
+	- Encore
+	- Everblush
+	- Everforest
+	- **Everforest Enchanted** - Muy bueno ⚡
+	- EvilRed
+	- Faded
+	- Feather
+	- Firefly
+	- Flexoki
+	- Fusion
+	- Garden Gnome (Adwata, GTK)
+	- Gastown
+	- GDCT Dark
+	- GitHub Theme
+	- GitHubDHC
+	- Gitsidian
+	- Golden Topaz
+	- Green Nightmare
+	- gummy
+	- halcyon
+	- Harmonic
+	- Higlighter
+	- Hipstersmoothie
+	- Hulk
+	- iA Writer
+	- iB Writer
+	- Iceberg
+	- ion
+	- ITS Theme
+	- Jotter
+	- Kakano
+	- Kanagawa
+	- LaTeX
+	- Lemons Theme
+	- Light & Bright
+	- Listive
+	- Lizardmen Zettelkasten
+	- LYT Mode
+	- Mado 11
+	- Mado Miniflow
+	- Mammoth
+	- MarNe
+	- Material Flat
+	- Material Gruvbox
+	- Material Ocean
+	- Micro Mike
+	- Minimal
+	- Minimal-Resources
+	- Modern Dark
+	- Molecule
+	- rr»nochroYOU
+	- Nebula
+	- NeuBorder
+	- Night
+	- Nightingale
+	- *Notation* - No centra imágenes, no se ve los callouts
+	- *Notation 2* - Mejor que Notation pero con los mismos problemas
+	- NotSwift
+	- Obsdn-Dark-Rmx
+	- Obsidian Boom
+	- Obsidian gruvbox
+	- Obsidian Nord
+	- Obsidian Windows 98 Edition
+	- obsidian_ia
+	- Obsidianite
+	- Obsidianotion
+	- Obuntu
+	- Oliver's Theme
+	- Ono Sendai
+	- Oozy
+	- Progami
+	- Origin
+	- Panic Mode
+	- Perso
+	- Phoenix
+	- Pine Forest Berry
+	- Pink Topaz
+	- Pisum
+	- PLN
+	- Polka
+	- Primary
+	- Prism
+	- Proper Dark
+	- ProtocolBlue
+	- *Prussian Blue* - No centra las imágenes y no hay light
+	- Purple Aurora
+	- Purple Owl
+	- Qlean
+	- Red Graphite
+	- Reverie
+	- Rezin
+	- Rmaki
+	- Rosé Pine
+	- Rosé Pine Moon
+	- Royal Velvet
+	- Ruby
+	- SALEM
+	- Sanctum
+	- Sandstorm
+	- Sanguine
+	- Serenite
+	- Serika
+	- *Shiba Inu* - No centra las imágenes, solo dark
+	- Shimmering Focus
+	- Simple
+	- Simplicity
+	- Slytherin
+	- Sodalite
+	- Solarized
+	- Solitude
+	- Sparkling Night
+	- Sparkling Wisdom
+	- Spectrum
+	- Spring
+	- sQdthOne
+	- Strict
+	- Subtlegold
+	- Sudda
+	- SynthWave
+	- Synthwave '84
+	- Terminal
+	- Theme-That-Shall-Not-Be-Named
+	- Things
+	- Tokyo Night
+	- Tokyo Night Storm
+	- Tomorrow Night Bright
+	- Traffic Lights
+	- Transient
+	- Typewriter
+	- Typomagical
+	- Typora-Vue
+	- Ukiyo
+	- Ultra Lobster
+	- Ursa
+	- Vainilla AMOLED
+	- Venom
+	- Vibrant
+	- Vicious
+	- Vileplume
+	- Vintage Theme
+	- Violet Evening
+	- Viridian
+	- Wasp
+	- Wikipedia
+	- WilcoxOne
+	- Willemstad
+	- WiseLight
+	- Wombat
+	- WY Console
+	- Wyrd
+	- Yin and Yang
+	- Yue
+	- Zario
+	- Zamburn
