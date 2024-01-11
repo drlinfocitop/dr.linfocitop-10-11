@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/02-biblioteca/azul/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122020408.png|200](/img/user/02%20Image/Pasted%20image%2020231122020408.png)
+![Pasted image 20231122020408.png|200](/img/user/02%20Image/Pasted%20image%2020231122020408.png)
 ## Descripción
 - Azul es un libro de cuentos y poemas del poeta nicaragüense Rubén Darío, considerado una de las obras más relevantes del modernismo hispánico. 
 	- Se publicó por primera vez en Valparaíso el 30 de julio de 1888.  
