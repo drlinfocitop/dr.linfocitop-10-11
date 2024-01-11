@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/h-p-lovecraft/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122042839.png|200](/img/user/02%20Image/Pasted%20image%2020231122042839.png)
+![Pasted image 20231122042839.png|200](/img/user/02%20Image/Pasted%20image%2020231122042839.png)
 ## Novelas
 - La botellita de cristal - 1898-1899
 - La cueva secreta - 1898-1899
