@@ -1,0 +1,128 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/cronica-de-una-muerte-anunciada/","noteIcon":""}
+---
+
+- ![Pasted image 20231201052548.png|200](/img/user/02%20Image/Pasted%20image%2020231201052548.png)
+## Comentario
+- Libro interesante, desde el inicio ya se supone la muerte de Santiago Nasar como algo aceptado por todos los personajes. La narración se acompaña de creencias y dichos que revelan la cosmovisión (realismo-mágico) de esta ciudad, vamos reconociendo su propia identidad, mientras descubrimos como acontece la muerte y las repercusiones de la muerte de un rico, y el rechazo de una esposa no virgen.
+## Personajes
+- **Santiago Nasar**: hacendado, joven, crea su propia fortuna. Tenía 3 amigos, misma escuela y misma pandilla: Narrador, Cristo Bedoya, Luis Enrique.
+	- *Ibrahim Nasar*, padre de Santiago: fallece
+	- *Plácida Linero*, madre de Santiago
+	- *Flora Miguel*, novia de Santiago Nasar
+- **Victoria Guzmán**: es la cocinera de Santiago
+	- **Divina Flor**, hija de Victoria Guzmán
+- **Angela Vicario**: esposa no virgen
+	- *Pura Vicario*, madre de Ángela
+	- *Poncio Vicario*, padre de Ángela, ciego
+	- **Pedro y Pablo Vicario**, gemelos asesinos 
+		- *Prudencia Cotes*: Novia de Pablo Vicario.
+- **Bayardo San Román**
+	- *Alberta Simonds*, madre
+	- *General Petronio San Román*, padre
+		- Puso en fuga al coronel Aureliano Buendía en el desastre de Tucurinca.
+		- Ordenó dispararle a *Gerineldo Máquez*
+- *María Alejandrina Cervantes*: puta del pueblo, amor de juventud de Santiago y amante del Narrador
+- *Obispo*: llega el día del asesinato, pero no baja del barco
+- *Don Lázaro Aponte*, coronel de academia y alcalde municipal
+- Doctor Dionisio Iguarán
+- Padre Carmen Amador
+- Clotilde Annenta: Dueña de la tienda de leche, por las noches cantina
+- **Narrador**, primo de Ángel y de Ángela Vicario. Amigo de Santiago
+	- *Luisa Santiaga*, madre del narrador
+	- *La monja*, hermana de Margot.
+	- *Luis Enrique*, hermano del narrador, amigo de Santiago 
+- *Cristo Bedoya*, amigo de Santiago Nasar
+	- *Margot*, hermana de Cristo Bedoya
+	- *Jaime*, hermano de Cristo Bedoya
+- Purísima del Carmen
+- Mercedes
+- Juez Instructor
+- Luisa Santiaga - Madre de Jaime, Margot y Cristo y fue madrina del bautizo de Santiago
+- Indalecio Pardo - Vecino.
+- Celeste Dangond - Vecino.
+- Poncho Lanao - Vecino de Santiago Nasar, vive en la casa de al lado.
+- *Magdalena Oliver*: Vecina del pueblo.
+- *Mercedes Barcha*: Vecina del pueblo.
+- Hortensia Baute - Vecina de pueblo.
+- *Leonardo Pornoy*: Agente de policía.
+- Purísima del Carmen - Madre de Poncio Vicario y abuela de Ángela Vicario.
+- Faustino Santos - Carnicero.
+- Rogelio de la flor - Marido de Clotilde Armenta.
+- Suseme Abdala - Matriarca de la comunidad de Arabes asentados en el pueblo.
+- Meme Loiza.
+- Aura Villeros - Comadrona del pueblo.
+- Polo Carrillo - Dueño de la planta eléctrica.
+- Fausta López - Mujer de Polo Carrillo.
+- Escolástica Cisnero.
+- Sara Noriega - Dueña de la tienda de zapatos.
+- Yamil Shaium - Árabe.
+- Próspera Arango.
+- Nahir Miguel - Padre de Flora Miguel, novia de Santiago Nasar.
+- Mercedes - Vecina del pueblo (Manaure)
+- Argémida Lanao - Mujer de Poncho Lanao.
+- Wenefrida Márquez - Tía de Gabriel García Márquez, vive al lado de Santiago Nasar.
+- ![Pasted image 20231208024526.png](/img/user/02%20Image/Pasted%20image%2020231208024526.png)
+	- Fuente: https://www.unprofesor.com/lengua-espanola/cronica-de-una-muerte-anunciada-personajes-4671.html
+## Citas
+### Capítulo 1 - Muerte Anunciada
+- Intérprete certera de sueño ajenos, siempre que se los contaran en ayunas
+- En época, de perdices llevaba también sus aperos de cetrería.
+- Era un costumbre sabia impuesta por su padre desde una mañana en que una sirvienta sacudió la almohada para quitarle la funda, y la pistola se disparé al chocar contra el suelo, y la bala desbarató el armario del cuarto, atravesó la pared de la sala, pasó con un estruendo de guerra por el comedor de la casa vecina y convirtió en polvo de yeso a un santo de tamaño natural en el altar mayor de la iglesia, al otro extremo de la plaza.
+- Todos los sueños con pájaros son de buena salud.
+- Divina Flor me confesó (...) ella no lo previno porque entonces no era, más que una niña asustada, incapaz de una decisión propia, y se había asustado mucho más cuando él la agarró por la muñeca con una mano que sintió helada y pétrea, como una mano de muerto.
+- "Entonces se acabó el pito del buque y empezaron a cantar los gallos"; me dijo. "Era un alboroto tan grande, que no podía creerse que hubiera tantos gallos en el pueblo y pensé que venían en el buque del obispo".
+### Capítulo 2 - Bayardo San Román
+- A alguien que no resistió la tentación de preguntárselo, un poco antes de la boda, le contestó: "Andaba de pueblo en pueblo buscando con quien casarme"
+- Mi madre le dio la bendición final en una carta de octubre. "La gente lo quiere mucho —me decía—, porque es honrado y de buen corazón, y el domingo pasado comulgó de rodillas y ayudó a la misa en latín". En ese tiempo no estaba permitido comulgar de pie y solo se oficiaba en latín, pero mi madre suele hacer esa clase de precisiones superfluas cuando quiere llegar al fondo de las cosas.
+- La propietaria le contestó que (...) se llamaba Angela Vicario. Bayardo San Román las siguió con la mirada hasta el otro extremo de la plaza.
+	- —Tiene el nombre bien puesto —dijo.
+	- Luego recostó la cabeza en el espaldar del mecedor, y volvió a cerrar lo ojos.
+	- —Cuando despierte —dijo—, recuérdame que me voy a casar con ella.
+- Lo único que mi madre les reprochaba era la costumbre de peinarse antes de dormir. "Muchachas —les decía—: no se peinen de noche que se retrasan los navegantes"
+- "Cualquier hombre será feliz con ellas, porque han sido criadas para sufrir"
+- Angela Vicario era la más bella de las cuatro, y mi madre decía que había nacido como las grandes reinas de la historia con el cordón umbilical enrollado en el cuello.
+- "Ya está de colgar en un alambra —me decía Santiago Nasar—: tu prima la boba"
+- "Nos pareció que eran vainas de mujeres" (...). El argumento decisivo de los padres fue que una familia dignificada por la modestia no tenía derecho a desperdiciar aquel premio del destino. Angela Vicario se atrevió apenas a insinuar el inconveniente de la falta de amor, pero su madre lo demolió con una sola frase:
+	- —También el amor se aprende.
+---
+- #### La compra de la quinta del viudo de Xius
+	- Pero el tiempo alcanzó sin angustias por la manera irresistible con que Bayardo San Román arreglaba las cosas. "Una noche me preguntó cuál era la casa que más me gustaba", me contó Angela Vicario. yo le contesté, sin saber para qué era, que la más bonita del pueblo era la quinta del viudo de Xius". Yo hubiera dicho lo mismo. Estaba en una colina barrida por los vientos, y desde la terraza se veía el paraíso sin límite de las ciénegas de y en los días claros del verano se alcanzaba a ver el horizonte nítido del Caribe, y los 'trasatlánticos de turistas de Cartagena de Indias. Bayardo San Román fue esa misma noche al Club Social y se sentó a la mesa del viudo de Xius a jugar una partida de dominó.
+	- —Viudo —le dijo— le compro su casa.
+	- —No está a la venta —dijo el viudo.
+	- —Se la compro con todo lo que tiene dentro.
+	- El viudo de Xius le explicó con una buena educación a la antigua que los objetos de la casa habían sido comprados por la esposa en toda una vida . de sacrificios, y que para él seguían siendo como parte de ella. "Hablaba con el alma en la mano", me dijo el doctor Dionisio Iguarán, que estaba jugando con ellos. "Yo estaba seguro que prefería morirse antes que vender una casa donde había sido feliz durante más de 30 años". También Bayardo San Román comprendió sus razones.
+	- —De acuerdo —dijo—. Entonces véndame la casa vacía.
+	- Pero el viudo se defendió hasta el final de la partida. Al cabo de tres noches, ya mejor preparado, Bayardo San Román volvió a la mesa de dominó.
+	- —Viudo —em1Ezó de nuevo—: ¿Cuánto cuesta la casa?
+	- —No tiene precio.
+	- —Diga uno cüalquiera.
+	- —Lo siento, Bayardo —dijo el viudo—, pero los jóvenes no entienden los motivos del corazón.
+	- Bayardo San Román no hizo una pausa para pensar.
+	- —Digamos cinco mil pesos —dijo.
+	- —Juega limpio— le replicó el viudo con la dignidad alerta—. Esa casa no vale tanto.
+	- —Diez mil —le dijo Bayardo San Román—. mán—. Ahora mismo, y con un billete encima del otro.
+	- El viudo lo miró con los ojos llenos de lágrimas. "Lloraba de rabia", me dijo el doctor Dionisio Iguarán, que además de médico, era hombre de letras. "Imagínate: semejante cantidad al alcance de la mano, y tener que decir que no por una simple flaqueza del espíritu". Al viudo de Xius no le salió la voz, negó sin vacilación con la cabeza.
+	- —Entonces hágame un último favor —dijo Bayardo San Román—. Espéreme aquí cinco minutos.
+	- Cinco minutos después, en efecto, volvió al Club Social con las alforjas enchapadas de plata, y puso sobre la mesa diez gavillas de billetes de a mil todavía con las bandas impresas del Banco del Estado. EI viudo de Xius murió dos meses después. "Se murió de eso", decía el doctor Dionisio Iguarán. "Estaba más sano que nosotros, pero cuando uno lo auscultaba de le sentían borboritar las lágrimas dentro del corazón". Pues no sólo había vendido Ia casa con todo lo que tenía dentro, sino que le pidió a Bayardo San Román que le fuera pagado poco a poco porque no le quedaba ni un baúl de consolación para guardar tanto dinero.
+---
+- "Lo único que le regaba a Dios es que me diera valor para matarme",  me dijo Angela Vicario. "Pero no me lo dio".
+- Le contó que había abierto la puerta sin encender la luz para no despertar a nadie, y vio a Bayardo San Román en el resplandor del farol público, con la camisa de seda sin abotonar y los pantalones de fantasía sostenidos con tirantes elásticos. "Tenía ese color verde de los sueños"
+### Capítulo 3 - Santiago Nasar
+- "Cuando uno sacrifica una res no se atreve a mirarle los ojos". Uno de ellos me dijo que no podía comer la carne del animal que degollaba. Otro me dijo que no sería capaz de sacrificar una vaca que hubiera conocido antes, y menos si había tomado su leche. Les recordé que los hermanos Vicario sacrificaban los mismo cerdos que criaban, y les eran tan familiares que los distinguían por sus nombres. "Es cierto —me replicó uno—, pero fíjese bien que no les ponían nombres de gente sino de flores".
+- Yo le previne: "Halcón que se atreve con garza guerrera, peligrosa espera". Pero él no me oyó, aturdido por los silbos quiméricos de María Alejandrino Cervantes.
+## Vocabulario
+- Aviago
+- Montaraz
+- Desbravar
+- Inermes
+- Ciénagas del estuario
+- Matarife
+- Levita y chitera
+- Ínfulas
+- Ortofónica
+- Marasmo
+- Perfidia
+- Ciénagas cubierta de anémonas moradas
+- Apareció de levita y chistera
+- La conduerma de la muerte
