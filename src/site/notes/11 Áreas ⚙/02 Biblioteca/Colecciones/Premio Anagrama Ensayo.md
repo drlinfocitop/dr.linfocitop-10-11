@@ -1,0 +1,133 @@
+---
+{"dg-publish":true,"permalink":"/11-areas/02-biblioteca/colecciones/premio-anagrama-ensayo/","noteIcon":""}
+---
+
+
+## Ganadores
+- 1973 - La estética y sus herejías - Xavier Rubert de Ventós
+- 1974
+	- Elementos de lingüística matemática - Sebastià Serrano
+	- De physis a polis. La evolución del pensamiento filosófico griego - Antonio Escohotado
+	- Utopía y subversión - Eduardo Subirats
+	- El espacio y las máscaras. Introducción a la lectura de Cernuda - Jenaro Talens
+- 1975
+	- El artista y la ciudad - Eugenio Trías
+	- El ojo de Buñuel. Psicoanálisis desde una butaca - Fernando Cesarman
+- 1976 
+	- Lógica de la libertad. Por un marxismo libertario - Enrique Gil Calvo
+	- Transversales. Texto sobre los textos - José Luis Pardo
+	- Filosofías del underground - Luis Racionero
+- 1977 - **No convocado**
+- 1978 - Por una estética egoísta. Esquizosemia - Jordi Llovet
+- 1979 - **No convocado**
+- 1980 - Lecturas de Octavio Paz - Pere Gimferrer
+- 1981 
+	- La errancia sin fin- Musil, Borges, Klossowski - Juan García Ponce
+	- La ideología nacional catalana - Francesc Hernández, Francesc Mercadé y Benjamín Oltra
+	- Poética y arquitectura - Josep Muntañola 
+- 1982 
+	- Invitación a la ética - Fernando Savater
+	- Reflexiones desde un cuerpo de mujer - Magda Catalá
+	- El ángel caído - José Jiménez
+- 1983 - Del paro al ocio - Luis Racionero
+- 1984 - La razón y la sombra. Una lectura política de Ortega y Gasset - Antonio Elorza
+- 1985 - El rumor de los desarraigados. Conflicto de lenguas en la península ibérica - Angel López García
+- 1986 - Cien años de militarismo en España - Joaquim Lleixà
+- 1987 
+	- Usos amorosos de la posguerra española - Carmen Martín Gaite
+	 - La Escuela de Barcelona - Carme Riera
+	- La lección de Scheherezade - Enrique Lynch
+- 1989
+	- Filosofía. El saber del esclavo - Víctor Gómez Pin
+	- Días sin fumar - Vicente Verdú
+- 1990
+	- El arte de la manipulación política - Josep Maria Colomer
+	- De la fealdad del arte moderno - Pedro Azara
+	- La identidad de la antropología - J. R. Llobera
+- 1991
+	- El espíritu de la comedia - Antonio Escohotado
+	- Las auras frías - José Luis Brea
+	- La sociedad rosa - Óscar A. Guasch
+- 1992 
+	- Elogio y refutación del ingenio - José Antonio Marina
+	- Imagen de lo Invisible - Pedro Azara
+	- El Centauro en el paisaje - Sergio González Rodríguez
+- 1993 
+	- La vida oculta - Soledad Puértolas
+	- El idiota moral - Norbert Bilbeny
+	- El Dioniso moderno y la farmacia utópica - Enrique Ocaña
+- 1994 
+	- Deseo de ser piel roja. Novela familiar - Miguel Morey
+- 1995 
+	- Cosmopolitas domésticos - Javier Echeverría
+	- Las reglas del caos. Apuntes para una antropología del mercado - Santiago Alba Rico
+- 1996 
+	- El planeta americano - Vicente Verdú
+	- Los demasiados libros - Gabriel Zaid
+- 1997 
+	- La revolución en la ética. Hábitos y creencias en la sociedad digital - Norbert Bilbeny
+	- Orden y caos. Un estudio cultural sobre lo monstruoso en el arte - José Miguel G. Cortés
+- 1998 
+	- Las primeras palabras de la creación - Alejandro Gándara
+	- El factor fama - Mercedes Odina y Gabriel Halevi
+- 1999 
+	- El animal público. Hacia una antropología de los espacios urbanos - Manuel Delgado
+	- Los Goytisolo - Miguel Dalmau
+- 2000 
+	- Aires de familia. Cultura y sociedad en América Latina - Carlos Monsiváis
+	- José Martínez: la epopeya de Ruedo Ibérico - Albert Forment 
+- 2001 
+	- Testimonios tangibles. Pasión y extinción de la lectura en la narrativa moderna - Nora Catelli
+	- El mal samaritano. El altruismo en tiempos del escepticismo - Helena Béjar
+- 2002 
+	- Bienestar insuficiente, democracia incompleta. Sobre lo que no se habla en nuestro país - Vicenç Navarro
+	- Situaciones postales - Tomás Abraham
+- 2003 
+	- Afinidades vienesas. Sujeto, lenguaje, arte - Josep Casals
+	- La responsabilidad social de las empresas en un mundo global - Tomás G. Perdiguero
+- 2004
+	- La resistencia silenciosa. Fascismo y cultura en España - Jordi Gracia
+	- Sócrates furioso. El pensador y la ciudad - Rafael del Águila 
+- 2005 
+	- Las malas pasadas del pasado. Identidad, responsabilidad, historia - Manuel Cruz
+	- Eduardo Haro Ibars- los pasos del caído - J. Benito Fernández 
+- 2006 
+	- Tumbas sin sosiego. Revolución, disidencia y exilio del intelectual cubano - Rafael Rojas
+	- Vidas adosadas. El miedo a los semejantes en la sociedad contemporánea - Pere Saborit
+- 2007 
+	- La ceremonia del porno - Andrés Barba, Javier Montes
+	- Poética del Café. Un espacio de la modernidad literaria europea - Antoni Martí Monterde
+- 2008 
+	- Historia de un encargo: "La catira" de Camilo José Cela - Gustavo Guerrero
+	- Descenso literario a los infiernos demográficos - Andreu Domingo 
+- 2009 
+	- Las experiencias del deseo. Eros y misos - Jesús Ferrero
+	- Postpoesía. Hacia un nuevo paradigma - Agustín Fernández Mallo
+- 2010 
+	- Eros. La superproducción de los afectos - Eloy Fernández Porta
+	- Pornotopía. Arquitectura y sexualidad en Playboy durante la guerra fría - Beatriz Preciado 
+- 2011 
+	- La herida de Spinoza. Felicidad y política en la vida posmoderna - Vicente Serrano
+	- Filosofía zombi - Jorge Fernández Gonzalo 
+- 2012 
+	- La ética de la crueldad - José Ovejero
+	- Atlas portátil de América Latina: arte y ficciones errantes - Graciela Speranza
+- 2013 
+	- Naturaleza de la novela - Luis Goytisolo
+	- Publirreportaje: Librerías con encanto - Jorge Carrión 
+- 2014 
+	- Campo de guerra - Sergio González Rodríguez
+	- Historia descabellada de la peluca - Luigi Amara 
+- 2015 - Divinas- Modelos, poder y mentiras - Patricia Soley-Beltrán
+- 2016 
+	- Estudios del malestar. Políticas de la autenticidad en las sociedades contemporáneas - José Luis Pardo
+	- Contra el tiempo. Filosofía práctica del instante - Luciano Concheiro San Vicente 
+- 2017 - El entusiasmo. Precariedad y trabajo creativo en la era digital - Remedios Zafra
+- 2018 - El sueño de los mártires - Dardo Scavino
+- 2019 - Las mejores palabras - Daniel Gamper
+- 2020 - Las cosas como son y otras fantasías. Moral, imaginación y arte narrativo - Pau Luque
+- 2021 
+	- La palabra que aparece. El testimonio como acto de supervivencia - Enrique Díaz Álvarez
+	- Una filosofía del miedo - Bernat Castany Prado 
+- 2022 - Antes del antiimperialismo. Genealogía y límites de una tradición humanitaria - Josep M. Fradera
+- 2023 - Curar la piel. Ensayo en torno al tatuaje - Nadal Suau
