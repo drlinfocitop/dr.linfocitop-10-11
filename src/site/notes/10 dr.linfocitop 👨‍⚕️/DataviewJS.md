@@ -9,6 +9,7 @@
 dv.paragraph("¡Hola mundo!")  
 ````
 <p><span data-tag-name="p" class="el-p"><p>¡Hola mundo!</p></span></p>
+
 ### Uso del texto en DataviewJS
 - En el operador ``dv.header(a,b)`` el primer elemento `a` de el orden del formato del encabezado para el texto siguiente que se representa como `b`.
 ````
@@ -16,23 +17,27 @@ dv.header(4, "Primeros pasos en DataviewJS")
 dv.paragraph('"Hola, *DataviewJS* resulta más eficiente que Dataview"')  
 ````
 <h4><span data-tag-name="p" class="el-p"><p>Primeros pasos en DataviewJS</p></span></h4><p><span data-tag-name="p" class="el-p"><p>"Hola, <em>DataviewJS</em> resulta más eficiente que Dataview"</p></span></p>
+
 ### Listas explícitas en DataviewJS
 ````
 dv.list(["Elemento 1", "Elemento 2", "Elemento 3"])  
 ````
 <div><ul class="dataview list-view-ul"><li><span data-tag-name="p" class="el-p">Elemento 1</span></li><li><span data-tag-name="p" class="el-p">Elemento 2</span></li><li><span data-tag-name="p" class="el-p">Elemento 3</span></li></ul></div>
+
 ### Variables
 ````
 const nombre = "Fernando"  
 dv.paragraph("Hola, mi nombre es " + nombre + ".")
 ````
 <p><span data-tag-name="p" class="el-p"><p>Hola, mi nombre es Fernando.</p></span></p>
+
 - Otra variante es:
 ````
 const nombre = "Fernando" 
 dv.paragraph(`Hola, mi nombre es ${nombre}.`)
 ````
 <p><span data-tag-name="p" class="el-p"><p>Hola, mi nombre es Fernando.</p></span></p>
+
 ## Listado en base a metadatos
 - Ejemplo de ordenamiento de entradas en base a sus metadatos.
 - Se muestra el código en Dataview y luego el correspondiente en DataviewJS:
@@ -41,19 +46,21 @@ LIST
 FROM "21 Redes sociales 🔗"
 WHERE web = youtube
 ````
-- [[21 Redes sociales 🔗/Dudas Eternas\|Dudas Eternas]]
 - [[21 Redes sociales 🔗/El Buen Librero\|El Buen Librero]]
-- [[21 Redes sociales 🔗/Histeria del Perú\|Histeria del Perú]]
+- [[21 Redes sociales 🔗/Dudas Eternas\|Dudas Eternas]]
 - [[21 Redes sociales 🔗/La Biblioteca de Merlín\|La Biblioteca de Merlín]]
+- [[21 Redes sociales 🔗/Histeria del Perú\|Histeria del Perú]]
 - [[21 Redes sociales 🔗/La Peruanidad\|La Peruanidad]]
 
 { .block-language-dataview}
+
 - Traducción a DataviewJS:
 ````
 dv.list(dv.pages('"21 Redes sociales 🔗"')
 .where(p =>p.web == "youtube").file.link)
 ````
-<div><ul class="dataview list-view-ul"><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Dudas Eternas.md" data-href="21 Redes sociales 🔗/Dudas Eternas.md" href="21 Redes sociales 🔗/Dudas Eternas.md" class="internal-link" target="_blank" rel="noopener">Dudas Eternas</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/El Buen Librero.md" data-href="21 Redes sociales 🔗/El Buen Librero.md" href="21 Redes sociales 🔗/El Buen Librero.md" class="internal-link" target="_blank" rel="noopener">El Buen Librero</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Histeria del Perú.md" data-href="21 Redes sociales 🔗/Histeria del Perú.md" href="21 Redes sociales 🔗/Histeria del Perú.md" class="internal-link" target="_blank" rel="noopener">Histeria del Perú</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Biblioteca de Merlín.md" data-href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" class="internal-link" target="_blank" rel="noopener">La Biblioteca de Merlín</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Peruanidad.md" data-href="21 Redes sociales 🔗/La Peruanidad.md" href="21 Redes sociales 🔗/La Peruanidad.md" class="internal-link" target="_blank" rel="noopener">La Peruanidad</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/El Buen Librero.md" data-href="21 Redes sociales 🔗/El Buen Librero.md" href="21 Redes sociales 🔗/El Buen Librero.md" class="internal-link" target="_blank" rel="noopener">El Buen Librero</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Dudas Eternas.md" data-href="21 Redes sociales 🔗/Dudas Eternas.md" href="21 Redes sociales 🔗/Dudas Eternas.md" class="internal-link" target="_blank" rel="noopener">Dudas Eternas</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Biblioteca de Merlín.md" data-href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" class="internal-link" target="_blank" rel="noopener">La Biblioteca de Merlín</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Histeria del Perú.md" data-href="21 Redes sociales 🔗/Histeria del Perú.md" href="21 Redes sociales 🔗/Histeria del Perú.md" class="internal-link" target="_blank" rel="noopener">Histeria del Perú</a></span></li><li><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Peruanidad.md" data-href="21 Redes sociales 🔗/La Peruanidad.md" href="21 Redes sociales 🔗/La Peruanidad.md" class="internal-link" target="_blank" rel="noopener">La Peruanidad</a></span></li></ul></div>
+
 ## Resumen de códigos JS
 - `dv.pages(source)`
 	- ``dv.pages()``: Todas la páginas del Vault 
@@ -66,6 +73,7 @@ dv.list(dv.pages('"21 Redes sociales 🔗"')
 	- ``dv.list(dv.pages().file.name)``: Lista de todos los nombres
 	- ``dv.list(dv.pages().file.link)``: Lista de todos los links
 	- ``dv.list(dv.pages("#book").where(p => p.rating > 7))``: Lista de todos los libros con rating mayor que 7
+
 ## Lista de tareas
 - `dv.taskList(tasks, groupByFile)`
 	- `page.file.tasks`: Lista de vista de datos
@@ -77,6 +85,7 @@ dv.list(dv.pages('"21 Redes sociales 🔗"')
 
 // List all tasks tagged with '#tag' from pages marked #project dv.taskList(dv.pages("#project").file.tasks .where(t => t.text.includes("#tag")))
 ```
+
 ## Tablas en DataviewJS
 - `dv.table(headers, elements)`
 	- `headers` son los encabezados de la tabla, expresados en forma de vector.
@@ -94,6 +103,7 @@ dv.table(
 		]
 	 );
 ```
+
 - Ejemplo práctico:
 ````
 dv.table(["Influencers", "Red social"], 
@@ -102,7 +112,7 @@ dv.table(["Influencers", "Red social"],
 		.sort(b => b.web) 
 		.map(b => [b.file.link, b.web]))
 ````
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span data-tag-name="p" class="el-p">Influencers</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Red social</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Dudas Eternas.md" data-href="21 Redes sociales 🔗/Dudas Eternas.md" href="21 Redes sociales 🔗/Dudas Eternas.md" class="internal-link" target="_blank" rel="noopener">Dudas Eternas</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/El Buen Librero.md" data-href="21 Redes sociales 🔗/El Buen Librero.md" href="21 Redes sociales 🔗/El Buen Librero.md" class="internal-link" target="_blank" rel="noopener">El Buen Librero</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Histeria del Perú.md" data-href="21 Redes sociales 🔗/Histeria del Perú.md" href="21 Redes sociales 🔗/Histeria del Perú.md" class="internal-link" target="_blank" rel="noopener">Histeria del Perú</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Biblioteca de Merlín.md" data-href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" class="internal-link" target="_blank" rel="noopener">La Biblioteca de Merlín</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Peruanidad.md" data-href="21 Redes sociales 🔗/La Peruanidad.md" href="21 Redes sociales 🔗/La Peruanidad.md" class="internal-link" target="_blank" rel="noopener">La Peruanidad</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span data-tag-name="p" class="el-p">Influencers</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Red social</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/El Buen Librero.md" data-href="21 Redes sociales 🔗/El Buen Librero.md" href="21 Redes sociales 🔗/El Buen Librero.md" class="internal-link" target="_blank" rel="noopener">El Buen Librero</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Dudas Eternas.md" data-href="21 Redes sociales 🔗/Dudas Eternas.md" href="21 Redes sociales 🔗/Dudas Eternas.md" class="internal-link" target="_blank" rel="noopener">Dudas Eternas</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Biblioteca de Merlín.md" data-href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" href="21 Redes sociales 🔗/La Biblioteca de Merlín.md" class="internal-link" target="_blank" rel="noopener">La Biblioteca de Merlín</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/Histeria del Perú.md" data-href="21 Redes sociales 🔗/Histeria del Perú.md" href="21 Redes sociales 🔗/Histeria del Perú.md" class="internal-link" target="_blank" rel="noopener">Histeria del Perú</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr><tr><td><span data-tag-name="p" class="el-p"><a data-tooltip-position="top" aria-label="21 Redes sociales 🔗/La Peruanidad.md" data-href="21 Redes sociales 🔗/La Peruanidad.md" href="21 Redes sociales 🔗/La Peruanidad.md" class="internal-link" target="_blank" rel="noopener">La Peruanidad</a></span></td><td><span data-tag-name="p" class="el-p">youtube</span></td></tr></tbody></table></div>
 
 >[!tips] Fuentes:
 >- https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
