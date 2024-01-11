@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/11-areas/01-humanos/leo-tolstoy/","noteIcon":""}
 ---
 
-- ![Pasted image 20231122032151.png|200](/img/user/02%20Image/Pasted%20image%2020231122032151.png)
+![Pasted image 20231122032151.png|200](/img/user/02%20Image/Pasted%20image%2020231122032151.png)
+## Biografía
 - Hijos: 14
-
 ## Novelas
 - Trilogía semiautobiográfica:
 	- Infancia - 1852
