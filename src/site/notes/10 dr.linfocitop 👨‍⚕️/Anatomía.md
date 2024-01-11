@@ -1,0 +1,73 @@
+---
+{"dg-publish":true,"permalink":"/10-dr-linfocitop/anatomia/","noteIcon":""}
+---
+
+## Anatomía descriptiva
+- Huesos
+	- Huesos de la cabeza
+		- Frontal
+		- Parietal
+		- Occipital
+		- Etmoides
+		- Esfenoides
+		- Maxilar
+		- Vómer
+		- Palatino
+		- Nasal
+		- Unguis
+	- Húmero
+	- Cúbito
+	- Radio
+	- Huesos del carpo
+		- Grande
+		- Pisiforme
+		- Ganchoso
+		- Semilunar
+		- Escafoide
+		- Piramidal
+		- Trapecio
+		- Trapezoide
+- Arterias
+	- Arteria Aorta
+	- Arteria Aorta Abdominal
+	- Arteria Aorta Torácica
+	- Arteria Carótida
+	- Arteria Maxilar
+	- Arteria Braquial
+	- Arteria Cubital
+	- Arteria Radial
+	- Arteria Palmar Superficial
+	- Arteria Palmar Profunda
+	- Arteria Tibial
+	- Arteria Femoral
+- Vena
+	- Vena Cava
+	- Vena Ácigos
+	- Vena Yugular Interna
+	- Vena Yugular Externa
+	- Vena Safena Mayor
+	- Vena Safena Menor
+- Huesos
+	- Frontal
+	- Parietal
+	- Maxilar
+	- Esfenoides
+	- Etmoides
+- Nervios
+	- Nervio Ciático
+	- Nervio Mediano
+	- Nervio Pudendo
+	- Nervio Radial
+	- Nervio Cubital
+	- Nervio Musculocutáneo
+	- Nervio Braquial
+## Anatomía topográfica
+- Topografía
+	- Túnel del carpo
+	- Fosa Axilar
+	- Canal Retromaleolar
+	- Canal Inguinal
+	- Fosa del Codo
+- Triángulos 
+	- Triángulo de Calot
+	- Triángulo de Petit
