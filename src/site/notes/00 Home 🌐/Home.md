@@ -29,7 +29,7 @@
 
 # Linfocito - Medicina Humana 👨‍⚕️
 ![baner-medicinah.png](/img/user/02%20Image/baner-medicinah.png)
-## Ciencias preclínicas
+## Ciencias básicas
 |                     Nivel 0 🥚                      |                      Nivel 1 🐣                       |                                   Nivel 2 🐤                                    |                                   Nivel 3 🦅                                    |
 |:---------------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 | [[10 dr.linfocitop 👨‍⚕️/Biología\|Biología]] <br> [[10 dr.linfocitop 👨‍⚕️/Bioquímica\|Bioquímica]] <br> [[10 dr.linfocitop 👨‍⚕️/Biofísica\|Biofísica]] | [[10 dr.linfocitop 👨‍⚕️/Anatomía\|Anatomía]] <br> [[10 dr.linfocitop 👨‍⚕️/Embriología\|Embriología]] <br> [[10 dr.linfocitop 👨‍⚕️/Histología\|Histología]] | [[10 dr.linfocitop 👨‍⚕️/Fisiología\|Fisiología]] <br> [[10 dr.linfocitop 👨‍⚕️/Patología\|Patología]] <br> [[10 dr.linfocitop 👨‍⚕️/Microbiología\|Microbiología]] <br> [[10 dr.linfocitop 👨‍⚕️/Parasitología\|Parasitología]] | [[10 dr.linfocitop 👨‍⚕️/Fisiopatología\|Fisiopatología]] <br> [[10 dr.linfocitop 👨‍⚕️/Farmacología\|Farmacología]] <br> [[10 dr.linfocitop 👨‍⚕️/Inmunología\|Inmunología]] <br> [[10 dr.linfocitop 👨‍⚕️/Genética\|Genética]] |
@@ -100,11 +100,13 @@
 
 { .block-language-dataview}
 
+<a href="#top">Volver al Inicio</a>
+
 
 
 ### Sobre mí
-- Bienvenidos, mi nombre es Fernando Parra 🙋‍♂️, curso el 6to año de medicina y he creado esta web🌍 en base a [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]. El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
+- Bienvenidos, mi nombre es Fernando Parra 🙋‍♂️, curso el 6to año de medicina y he creado esta web🌍 en base a [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]. 
+- El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
 - Mi correo es dr.linfocitop23@gmail.com.
 - Muchos éxitos en sus metas✨.
-
-<a href="#top">Volver al Inicio</a>
+![Perro-GIF.gif](/img/user/Perro-GIF.gif)
