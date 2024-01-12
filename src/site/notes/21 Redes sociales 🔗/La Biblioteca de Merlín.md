@@ -1408,4 +1408,4 @@ Callejones y mansiones - Alicia del Águila
 - 60 soles - Reunión de Sum sábados 9-10:00 am
 	- Merlín encuentra libros raros
 
-![[Perro GIF.swf]]
+![[Perro GIF.swf\|Perro GIF.swf]]
