@@ -11,14 +11,14 @@
 > [!info]
 > Aquí hay un callout.
 > Es compatible con **Markdown**, [[Internal link\|Wikilinks]] y [[Embed files\|embeds]]!
-> ![[og-image.png\|og-image.png]]
+> ![cover_M.png|200](/img/user/02%20Image/cover_M.png)
 ```
 
 
 > [!info]
 > Aquí hay un callout.
 > Es compatible con **Markdown**, [[Internal link|Wikilinks]] y [[Embed files|embeds]]!
-> ![[og-image.png]]
+> ![cover_M.png|200](/img/user/02%20Image/cover_M.png)
 
 + Las llamadas también se admiten de forma nativa en Obsidian Publish .
 >[!note]
@@ -59,23 +59,6 @@
 > > [!todo] Yes!, they can.
 > > > [!example]  You can even use multiple layers of nesting.
 
-## Personalizar Callouts
-+ Los fragmentos de CSS y los complementos de la comunidad pueden definir llamadas personalizadas o incluso sobrescribir la configuración predeterminada.
-+ Para definir una llamada personalizada, cree el siguiente bloque CSS:
-```
-.callout[data-callout="custom-question-type"] {
-    --callout-color: 0, 0, 0;
-    --callout-icon: lucide-alert-circle;
-}
-```
-
-+ El valor del data-calloutatributo es el identificador de tipo que desea utilizar, por ejemplo `[!custom-question-type]`.
-    + --callout-colordefine el color de fondo usando números (0–255) para rojo, verde y azul.
-    + --callout-iconpuede ser un ID de icono de lucide.dev o un elemento SVG.
-
->[!tip] iconos SVG
->En lugar de usar un ícono de Lucide, también puede usar un elemento SVG como ícono de llamada.
->> `--callout-icon: '<svg>...custom svg...</svg>';`
 ## Estilos
 + Es posible mejorar el estilo con CSS.
 + A menos que  , cualquier tipo no compatible tiene como valor predeterminado el tipo `note`. 
@@ -184,3 +167,11 @@
 ```
 > [!quote]
 > Lorem ipsum dolor sit amet
+
+
+
+>[!tips] Fuentes:
+>- https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
+>- https://medium.com/@biscotty666/a-gentle-introduction-to-dataviewjs-2eefcc59ee07
+>- https://forum.obsidian.md/t/learning-dataviewjs-from-dataview/48056/6
+>- https://momentjs.com/
