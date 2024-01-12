@@ -88,4 +88,4 @@
 
 <a href="#top">Volver al Inicio</a>
 
-# [[00 Home 🌐/Sobre mí...\|Sobre mí...]]
+# **[[00 Home 🌐/Sobre mí...\|Sobre mí... 🙋‍♂️]]**
