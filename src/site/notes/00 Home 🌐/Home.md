@@ -8,13 +8,13 @@
 
 ![logo-linfocito.png|300](/img/user/02%20Image/logo-linfocito.png)
 
->[!example]- **Home** 🏡 Índice
+>[!example]- **Home** 🏡 Índice ⬇
 >- [[00 Home 🌐/Home#Linfocito - Medicina Humana 👨‍⚕️\|Medicina Humana 👨‍⚕️➡]]
 >- [[00 Home 🌐/Home#Linfocito - Ciencias fundamentales ⚡\|Ciencias fundamentales ⚡➡]]
 >- [[00 Home 🌐/Home#Linfo-Biblioteca 📚\|Biblioteca 📚➡]]
 >- [[00 Home 🌐/Home#Hobbies ✨\|Hobbies ✨➡]]
 
->[!tip] **Comunidad USMLE** 👨‍⚕️
+>[!tip]- **Comunidad USMLE** 👨‍⚕️ Links ⬇
 > - *Bancos de preguntas*
 > 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP1\|STEP1]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP2\|STEP2]] - [[10 dr.linfocitop 👨‍⚕️/Anki\|Anki]] 
 > 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas EsSalud\|EsSalud-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas ENAM\|ENAM-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas Residentado Perú\|RM-Perú]] 
@@ -22,6 +22,10 @@
 > 	- [[21 Redes sociales 🔗/🔗WhatsApp\|🔗WhatsApp]] [[21 Redes sociales 🔗/🔗Telegram\|🔗Telegram]] [[21 Redes sociales 🔗/🔗Discord\|🔗Discord]] 
 > - *Redes sociales*
 > 	- [🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [🔗Twitter](https://twitter.com/drlinfocitop) [🔗Facebook](https://www.facebook.com/profile.php?id=100092210299968&sk) [🔗TikTok](https://www.tiktok.com/@dr.linfocitop) [🔗Reddit](https://www.reddit.com/user/dr_linfocitop) [🔗Github](https://github.com/drlinfocitop) 
+
+>[!danger]- **Linfo-regalos** 👨‍⚕️ Drive ⬇
+> - *Posters anatómicos*
+
 
 # Linfocito - Medicina Humana 👨‍⚕️
 ![baner-medicinah.png](/img/user/02%20Image/baner-medicinah.png)
