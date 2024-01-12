@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-home/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-   <div style="text-align: center; color: #3498db"> <font face="Helvetica, Arial, sans-serif" size="9" color="#3498db"> <b>Doctor Linfocito P</b> </font> </div>  
+   <div style="text-align: center; color: #3498db"> <font face="Helvetica, Arial, sans-serif" size="12" color="#3498db"> <b>Doctor Linfocito P</b> </font> </div>  
 
 <a name="top"></a>
 
@@ -23,7 +23,7 @@
 > - *Redes sociales*
 > 	- [🔗Instagram](https://www.instagram.com/dr.linfocitop/) [🔗YouTube](https://www.youtube.com/@dr.linfocitop) [🔗Twitter](https://twitter.com/drlinfocitop) [🔗Facebook](https://www.facebook.com/profile.php?id=100092210299968&sk) [🔗TikTok](https://www.tiktok.com/@dr.linfocitop) [🔗Reddit](https://www.reddit.com/user/dr_linfocitop) [🔗Github](https://github.com/drlinfocitop) 
 
->[!danger]- **Linfo-regalos** 👨‍⚕️ Drive ⬇
+>[!danger]- **Linfo-regalos** 🎁 Drive ⬇
 > - *Posters anatómicos*
 
 
