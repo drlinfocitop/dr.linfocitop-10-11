@@ -48,13 +48,11 @@ __Texto en negrita__
 ```-Markdown
 - [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]
 ```
+
 - [[Obsidian]]
 8.  *Imágenes*: Puedes incrustar imágenes utilizando un signo de exclamación (!), corchetes ([]) para el texto alternativo de la imagen y paréntesis (()) para la URL de la imagen. Por ejemplo:
 ```Markdown 
-- Link de la imagen:
-	https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg
-- Código Markdown:
-	![USMLE|340](https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg)
+![USMLE|340](https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg)
 ```
 
 ![USMLE|340](https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg)
