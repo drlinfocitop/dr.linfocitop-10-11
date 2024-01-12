@@ -21,9 +21,9 @@ LIMIT 10
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
 - [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Sobre mí...\|Sobre mí...]]
 - [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores\|📚 Antropología autores]]
-- [[00 Home 🌐/📚 Antropología libros activos\|📚 Antropología libros activos]]
 
 { .block-language-dataview}
 
@@ -40,9 +40,9 @@ LIMIT 10
 - [[00 Home 🌐/Plantillas/Plantilla libro - otro idioma\|Plantilla libro - otro idioma]]
 - [[00 Home 🌐/Plantillas/Plantilla libro repositorio legal\|Plantilla libro repositorio legal]]
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
+- [[00 Home 🌐/Sobre mí...\|Sobre mí...]]
 - [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
 - [[00 Home 🌐/📚 Antropología autores\|📚 Antropología autores]]
-- [[00 Home 🌐/📚 Antropología libros activos\|📚 Antropología libros activos]]
 
 { .block-language-dataview}
 
@@ -67,9 +67,9 @@ LIMIT 10
 ````
 - [[10 dr.linfocitop 👨‍⚕️/Markdown\|Markdown]]
 - [[10 dr.linfocitop 👨‍⚕️/DataviewJS\|DataviewJS]]
-- [[10 dr.linfocitop 👨‍⚕️/Digital Garden\|Digital Garden]]
 - [[10 dr.linfocitop 👨‍⚕️/Dataview\|Dataview]]
 - [[10 dr.linfocitop 👨‍⚕️/Callouts\|Callouts]]
+- [[10 dr.linfocitop 👨‍⚕️/Digital Garden\|Digital Garden]]
 
 { .block-language-dataview}
 
@@ -86,9 +86,9 @@ LIMIT 10
 - [[00 Home 🌐/Plantillas/Plantilla libro\|Plantilla libro]]
 - [[10 dr.linfocitop 👨‍⚕️/Markdown\|Markdown]]
 - [[10 dr.linfocitop 👨‍⚕️/DataviewJS\|DataviewJS]]
-- [[10 dr.linfocitop 👨‍⚕️/Digital Garden\|Digital Garden]]
 - [[10 dr.linfocitop 👨‍⚕️/Dataview\|Dataview]]
 - [[10 dr.linfocitop 👨‍⚕️/Callouts\|Callouts]]
+- [[10 dr.linfocitop 👨‍⚕️/Digital Garden\|Digital Garden]]
 
 { .block-language-dataview}
 
