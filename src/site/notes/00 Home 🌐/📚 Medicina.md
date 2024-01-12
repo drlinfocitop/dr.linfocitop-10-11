@@ -10,9 +10,7 @@
 >- *Introducción*:
 >	- [[00 Home 🌐/📚 Medicina#Biología\|Biología➡]] - [[00 Home 🌐/📚 Medicina#Bioquímica\|Bioquímica➡]] - [[00 Home 🌐/📚 Medicina#Biofísica\|Biofísica➡]]
 >- *Ciencias básicas*:
->	- [[00 Home 🌐/📚 Medicina#Anatomía\|Anatomía➡]] - [[00 Home 🌐/📚 Medicina#Embriología\|Embriología➡]] - [[00 Home 🌐/📚 Medicina#Histología\|Histología➡]]
->	- [[00 Home 🌐/📚 Medicina#Fisiología\|Fisiología➡]] - [[00 Home 🌐/📚 Medicina#Patología\|Patología➡]] - [[00 Home 🌐/📚 Medicina#Microbiología\|Microbiología➡]] - [[00 Home 🌐/📚 Medicina#Parasitología\|Parasitología➡]]
->	- [[00 Home 🌐/📚 Medicina#Fisiopatología\|Fisiopatología➡]] - [[00 Home 🌐/📚 Medicina#Farmacología\|Farmacología➡]] - [[00 Home 🌐/📚 Medicina#Inmunología\|Inmunología➡]] - [[00 Home 🌐/📚 Medicina#Genética\|Genética➡]]
+>	- [[00 Home 🌐/📚 Medicina#Anatomía\|Anatomía➡]] - [[00 Home 🌐/📚 Medicina#Embriología\|Embriología➡]] - [[00 Home 🌐/📚 Medicina#Histología\|Histología➡]] - [[00 Home 🌐/📚 Medicina#Fisiología\|Fisiología➡]] - [[00 Home 🌐/📚 Medicina#Patología\|Patología➡]] - [[00 Home 🌐/📚 Medicina#Microbiología\|Microbiología➡]] - [[00 Home 🌐/📚 Medicina#Parasitología\|Parasitología➡]] - [[00 Home 🌐/📚 Medicina#Fisiopatología\|Fisiopatología➡]] - [[00 Home 🌐/📚 Medicina#Farmacología\|Farmacología➡]] - [[00 Home 🌐/📚 Medicina#Inmunología\|Inmunología➡]] - [[00 Home 🌐/📚 Medicina#Genética\|Genética➡]]
 
 - [[00 Home 🌐/📚 Medicina autores\|📚 Medicina autores]]
 - [[00 Home 🌐/📚 Medicina libros activos\|📚 Medicina libros activos]]
