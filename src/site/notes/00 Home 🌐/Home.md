@@ -67,7 +67,6 @@
 
 - Esta *biblioteca virtual* es un índice de libros acompañados de una descripción, útil para su clasificación y registro, pero no son links de descarga. Las entradas de los libros catalogados como "*activos*" tienen un resumen de lo más relevante de ellos. 
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
-- [[11 Áreas ⚙/02 Biblioteca/Colecciones/Biblioteca - Colecciones editoriales\|Biblioteca - Colecciones editoriales]]
 # Hobbies ✨
 | Hobbie                                                                         | Link                                                                     |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
