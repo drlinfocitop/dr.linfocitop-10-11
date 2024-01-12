@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-home/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-   <div style="text-align: center; color: #3498db"> <font face="Helvetica, Arial, sans-serif" size="10" color="#3498db"> <b>Doctor Linfocito P</b> </font> </div>  
+   <div style="text-align: center; color: #3498db"> <font face="Helvetica, Arial, sans-serif" size="9" color="#3498db"> <b>Doctor Linfocito P</b> </font> </div>  
 
 <a name="top"></a>
 
@@ -14,7 +14,7 @@
 >- [[00 Home 🌐/Home#Linfo-Biblioteca 📚\|Biblioteca 📚➡]]
 >- [[00 Home 🌐/Home#Hobbies ✨\|Hobbies ✨➡]]
 
->[!tip]- **Comunidad USMLE** 👨‍⚕️ Links ⬇
+>[!tip]- **Comunidad USMLE** 👨‍⚕️ *Links* ⬇
 > - *Bancos de preguntas*
 > 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP1\|STEP1]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas STEP2\|STEP2]] - [[10 dr.linfocitop 👨‍⚕️/Anki\|Anki]] 
 > 	- [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas EsSalud\|EsSalud-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas ENAM\|ENAM-Perú]] - [[10 dr.linfocitop 👨‍⚕️/Banco de preguntas Residentado Perú\|RM-Perú]] 
