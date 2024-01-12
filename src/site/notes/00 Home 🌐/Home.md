@@ -109,4 +109,5 @@
 - El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
 - Mi correo es dr.linfocitop23@gmail.com.
 - Muchos éxitos en sus metas✨.
-![300x200](https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2013/08/gif.gif)
+
+![300x200](https://y.yarn.co/0b2b8e81-98e6-4eed-a996-d7b21b8df3f5_text.gif)
