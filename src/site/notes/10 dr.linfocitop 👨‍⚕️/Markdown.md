@@ -31,7 +31,7 @@ __Texto en negrita__
 3. Elemento 3
 ```
 4. *Listas anidadas*: Puedes anidar listas dentro de otras listas utilizando sangría con espacios o tabulaciones. Por ejemplo:
-```
+```Markdown
 - Elemento 1    
 	- Subelemento 1.1    
 	- Subelemento 1.2 
@@ -40,41 +40,40 @@ __Texto en negrita__
 		- Subelemento 2.1.1
 ```
 5.  *Enlaces externos*: Puedes crear enlaces utilizando corchetes ([]) para el texto del enlace y paréntesis (()) para la URL. Por ejemplo:
-```-Markdown
+```Markdown
 - [Enlace a Google](https://www.google.com)
 ```
 - [Enlace a Google](https://www.google.com)
 6. *Enlaces internos*: Se realizan a otras entradas. Pueden crearse si no existen aún.
 ```-Markdown
+- [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]
+```
 - [[Obsidian]]
-```
 8.  *Imágenes*: Puedes incrustar imágenes utilizando un signo de exclamación (!), corchetes ([]) para el texto alternativo de la imagen y paréntesis (()) para la URL de la imagen. Por ejemplo:
-
-``` 
-![Texto alternativo](https://www.example.com/imagen.jpg)
+```Markdown 
+- Link de la imagen:
+	https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg
+- Código Markdown:
+	![USMLE|340](https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg)
 ```
+
+![USMLE|340](https://www.usmle.org/sites/default/files/2023-04/USMLE_Horizontal%20Logo%20with%20Name_FullColor_RGB_SM.svg)
 6. *Citas*: Puedes crear citas utilizando el signo mayor que (>). Por ejemplo:
-```Markdown
+```
 > Esto es una cita
 ```
 > Esto es una cita
 
 1. *Bloques de código*: Puedes resaltar bloques de código utilizando comillas invertidas ``(```)`` al principio y al final del bloque. También puedes especificar el lenguaje de programación para obtener resaltado de sintaxis. Por ejemplo:
-````
+````Markdown
 ```Python
 def saludar():
 	print("¡Hola, mundo!")
 saludar()
 ```
 ````
-
-```Python
-def saludar():
-	print("¡Hola, mundo!")
-saludar()
-```
 8. *Líneas horizontales*: Puedes crear líneas horizontales utilizando tres guiones (``-``), asteriscos ``(*)`` o guiones bajos ``(_)``. Por ejemplo:
-``` yaml
+```Markdown
 ---
 ***
 ___
@@ -90,7 +89,7 @@ ___
 ~~Texto tachado~~
 
 10. *Tablas*: Puedes crear tablas utilizando barras verticales (|) para separar las columnas y guiones (-) para separar la cabecera de la tabla. Por ejemplo:
-``` css
+```Markdown
 | Nombre  | Edad | 
 |---------|------| 
 | Juan    | 25   | 
@@ -103,38 +102,6 @@ ___
 
 
 12. Resaltado de código: Puedes resaltar código dentro de una línea utilizando comillas invertidas `(``)` `. Por ejemplo:
-```
+```Markdown
 El comando `print()` muestra un mensaje en la consola.
 ```
-
-
-17.  Notas al pie de página: Puedes agregar notas al pie de página utilizando corchetes ([]) y paréntesis (()) para el texto de la nota y la referencia. Por ejemplo:
-`Esto es un ejemplo de una nota al pie de página[^1].  [^1]: Esta es la explicación de la nota al pie de página.`
-
-
-`<span style="color: blue;">Este texto está resaltado en azul.</span>`
-
-
-
-`H<sub>2</sub>O es la fórmula del agua. x<sup>2</sup> representa x al cuadrado.`
-
-`[![Texto alternativo](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)`
-
-
-`[Texto de enlace de audio](ruta/al/archivo.mp3)`
-
-`def saludar():     print("¡Hola, mundo!")  saludar()`
-
-
-
-`Esto es un texto de ejemplo.^1^ 
-{ #1}
-^ Esto es una nota al margen relacionada con el texto anterior.`
-
-
-`<span style="font-size: 20px;">Este texto tiene un tamaño de fuente de 20 píxeles.</span>`
-
-
-
-`![Texto alternativo](ruta/a/la/imagen.jpg){width=400 height=300}`
-
