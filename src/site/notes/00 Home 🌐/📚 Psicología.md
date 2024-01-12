@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-home/psicologia/","noteIcon":""}
 ---
 
-- ![cover_P.png|200](/img/user/02%20Image/cover_P.png)
+![cover_P.png|200](/img/user/02%20Image/cover_P.png)
 ## Libros
 | Name                                                                                                   | Autor                              | Editorial                              |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------- | -------------------------------------- |
