@@ -83,7 +83,7 @@
 
 { .block-language-dataview}
 
-- Esta *biblioteca virtual* es un índice de libros acompañados de una descripción, útil para su clasificación y registro, pero no son links de descarga. Las entradas de los libros catalogados como "*activos*" tienen un resumen de lo más relevante de ellos. 
+- Esta *biblioteca virtual* es un índice de libros acompañados de una descripción, útil para su clasificación y registro, pero no son links de descarga.
 - **FREE**: [[11 Áreas ⚙/02 Biblioteca/Colecciones/Libros Gratis Legales\|Libros Gratis Legales]]
 
 <a href="#top">Volver al Inicio</a>
@@ -100,14 +100,11 @@
 
 { .block-language-dataview}
 
-### Recursos
-- [[10 dr.linfocitop 👨‍⚕️/Frases célebres\|Frases célebres]]
-- [[10 dr.linfocitop 👨‍⚕️/Citas - Literatura\|Citas - Literatura]]
-- [[00 Home 🌐/Trivia libro - autor\|Trivia libro - autor]]
-- Autor - Etapa literaria
-- Biografía - Personaje
-- Frase - Personaje
-- Película - Director
-- Película - Actor
+
+
+### Sobre mí
+- Bienvenidos, mi nombre es Fernando Parra 🙋‍♂️, curso el 6to año de medicina y he creado esta web🌍 en base a [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]. El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
+- Mi correo es dr.linfocitop23@gmail.com.
+- Muchos éxitos en sus metas✨.
 
 <a href="#top">Volver al Inicio</a>
