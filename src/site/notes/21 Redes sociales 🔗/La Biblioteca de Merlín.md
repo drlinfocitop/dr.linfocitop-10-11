@@ -1091,36 +1091,56 @@
 - **Consejo 7**: analiza las métricas
 - Datos que han cambiado sobre Machupicchu
 - Video apócrifo: https://www.youtube.com/live/56qxcqgSvRU?si=oKB9WnmwLuGDdLVq&t=6544
-	- *1 - ¿Qué es realmente Machu Picchu?*
-		- No hay certeza. Fortaleza, ayllus transitorio, Santuario, Refugio del Inca 
-		- Machu Picchu - Luis E Varcárcel - FCE - Libro de los años 50's. Ha tenido variaciones en el tiempo
-		- Hiram Bingham buscaba el refugio los Incas de Vilcabamba
-			- Ya no se considera a Bingham como descubridor, solo como 
-	- *2 - ¿Quién llegó primero?*
-		- Alemán Burns huaqueo Machu Picchu 10 años antes
-		- Yale devolverá reliquias
-		- Huaqueo legal en siglo XX
-	- *3 - Se hallaron discos inexplicables*
-		- ![Pasted image 20240105012012.png|200](/img/user/02%20Image/Pasted%20image%2020240105012012.png)
-		- ![Pasted image 20240105012057.png|200](/img/user/02%20Image/Pasted%20image%2020240105012057.png)
-		- Discos de piedra del libro de Valcárcel. Erosionadas "posible escritura?". 42 ovaladas 19 triangulares. Solo existen en Machu Picchu
-			- Este dato debe ser corroborado
-	- *4 - ¿Machu Picchu estuvo habitada principalmente por mujeres?*
-		- Falso. Datos antiguos. Se han encontrado esqueletos masculinos.
-		- No es Acllahuasi "casa de las escogidas"
-	- *5 - ¿La intihuatana esta incompleta?*
-		- José Gabriel Cosío Medina: en 1912 la intihuatana poseía un "aro de piedra"
-		- Valcárcel señala que en la intihuatana de Pisac si hay indicios de un aro de piedra.
-		- No se sabe para que servía el aro 
-	- *6 - Misterios variados*
-		- Antes se pensaba que no había oro. Ya se encontró un brazalete de oro
-		- No se encontraron armas. Ya se encontraron armas
-		- No se encontraron cráneos trepanados
-		- Existen escaleras que no dirigen a ningún lado
-		- Abastecimiento de agua. Ya se encontró una fuente de agua
-		- Ningún cronista menciona a Machu Picchu, es posible que los incas no lo conocieran. Es posible que sea preincaico.
-			- Templo Chavín de Huántar tampoco se conoció su ubicación por los cronistas.
+- *1 - ¿Qué es realmente Machu Picchu?*
+	- No hay certeza. Fortaleza, ayllus transitorio, Santuario, Refugio del Inca 
+	- Machu Picchu - Luis E Varcárcel - FCE - Libro de los años 50's. Ha tenido variaciones en el tiempo
+	- Hiram Bingham buscaba el refugio los Incas de Vilcabamba
+		- Ya no se considera a Bingham como descubridor, solo como 
+- *2 - ¿Quién llegó primero?*
+	- Alemán Burns huaqueo Machu Picchu 10 años antes
+	- Yale devolverá reliquias
+	- Huaqueo legal en siglo XX
+- *3 - Se hallaron discos inexplicables*
+	- ![Pasted image 20240105012012.png|200](/img/user/02%20Image/Pasted%20image%2020240105012012.png)
+	- ![Pasted image 20240105012057.png|200](/img/user/02%20Image/Pasted%20image%2020240105012057.png)
+	- Discos de piedra del libro de Valcárcel. Erosionadas "posible escritura?". 42 ovaladas 19 triangulares. Solo existen en Machu Picchu
+		- Este dato debe ser corroborado
+- *4 - ¿Machu Picchu estuvo habitada principalmente por mujeres?*
+	- Falso. Datos antiguos. Se han encontrado esqueletos masculinos.
+	- No es Acllahuasi "casa de las escogidas"
+- *5 - ¿La intihuatana esta incompleta?*
+	- José Gabriel Cosío Medina: en 1912 la intihuatana poseía un "aro de piedra"
+	- Valcárcel señala que en la intihuatana de Pisac si hay indicios de un aro de piedra.
+	- No se sabe para que servía el aro 
+- *6 - Misterios variados*
+	- Antes se pensaba que no había oro. Ya se encontró un brazalete de oro
+	- No se encontraron armas. Ya se encontraron armas
+	- No se encontraron cráneos trepanados
+	- Existen escaleras que no dirigen a ningún lado
+	- Abastecimiento de agua. Ya se encontró una fuente de agua
+	- Ningún cronista menciona a Machu Picchu, es posible que los incas no lo conocieran. Es posible que sea preincaico.
+		- Templo Chavín de Huántar tampoco se conoció su ubicación por los cronistas.
 - Libro actualizado sobre Machupicchu - Investigaciones interdisciplinarias: https://www.machupicchu.gob.pe/libro-machupicchu/
+#### 153 - Preguntas libres.
+- Merlín se propone bajar de peso mediante la natación y la dieta. Baja rápido de peso. No desea entrar en un gym.
+	- Futuro canal alterno. Diario de un gordo.
+- Libro: [[Ian Kershaw\|Ian Kershaw]] especialista en Hitler
+	- Otro libro: https://www.planetadelibros.com.co/libro-hitler-y-el-nuevo-orden-mundial/350305
+- Libro de la llegada de los chinos al Perú
+	- [[Umberto Rodríguez Pastor\|Umberto Rodríguez Pastor]] - 
+		- Los hijos del dragón 
+		- [[Chinos en la sociedad peruana\|Chinos en la sociedad peruana]] - Fondo editorial UNMSM
+			- https://libreriaelcaminante.com/wp/producto/chinos-en-la-sociedad-peruana/
+- Libro: Miedo a los piratas
+	- El miedo en el Perú - Claudia Rosas Lauro https://repositorio.pucp.edu.pe/index/handle/123456789/173095
+	- Mujeres piratas - FCE - Laura Sook https://www.fondodeculturaeconomica.com/Ficha/9786071672766/F
+- ¿Qué libro regalar a mi hijo?: Libros [[Editorial Paidós\|Editorial Paidós]]
+	- La edad media explicada a los jóvenes - [[Jacques Le Goff\|Jacques Le Goff]]
+	- La prehistoria explicada a los jóvenes - [[Jean Clottes\|Jean Clottes]]
+	- El siglo XX explicado a los jóvenes - [[Marc Ferro\|Marc Ferro]]
+- Libro gastronomía:
+	- [[La Cocina en el Virreinato del Perú\|La Cocina en el Virreinato del Perú]] - [[Rosario Olivas Weston\|Rosario Olivas Weston]] - https://libros.fcctp.usmp.edu.pe/la-cocina-en-el-virreinato-del-peru/
+- Anécdotas: taxi en Ayacucho - Anécdota hot de amigo, pastillazo - Anécdota de aereomoza
 ### Especiales
 - SOY VENDEDOR DE LIBROS POR UN DÍA 💰 | Un día como librero
 	- 250 soles por día
@@ -1387,3 +1407,5 @@ Callejones y mansiones - Alicia del Águila
 - 15 soles - Radio Misterio
 - 60 soles - Reunión de Sum sábados 9-10:00 am
 	- Merlín encuentra libros raros
+
+![[Perro GIF.swf]]
