@@ -3,12 +3,14 @@
 ---
 
 - Bienvenidos, mi nombre es Fernando Parra 🙋‍♂️, curso el 6to año de medicina y he creado esta web🌍 en base a [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]. 
+ 
+![Pasted image 20240112050039.png|300](/img/user/02%20Image/Pasted%20image%2020240112050039.png)
+
 - El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
 - Mi correo es dr.linfocitop23@gmail.com.
 - Muchos éxitos en sus metas✨.
-<br>
-![gif|300x200](https://y.yarn.co/0b2b8e81-98e6-4eed-a996-d7b21b8df3f5_text.gif)
 ## Hobbies ✨
+![gif|300x200](https://y.yarn.co/0b2b8e81-98e6-4eed-a996-d7b21b8df3f5_text.gif)
 | Hobbie                                                                         | Link                                                                     |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | ![png\|60](https://drlinfocitop.netlify.app/img/optimized/gL-3_J8EN7-700.webp) | [[11 Áreas ⚙/00 MOCs/Bebidas estimulantes ☕\|Bebidas estimulantes ☕]] |
@@ -20,12 +22,5 @@
 
 { .block-language-dataview}
 
-<a href="#top">Volver al Inicio</a>
 
 
-
-### Sobre mí
-- Bienvenidos, mi nombre es Fernando Parra 🙋‍♂️, curso el 6to año de medicina y he creado esta web🌍 en base a [[10 dr.linfocitop 👨‍⚕️/Obsidian\|Obsidian]]. 
-- El objetivo es crear una comunidad de estudiantes con miras en hacer la residencia en USA🗽. 
-- Mi correo es dr.linfocitop23@gmail.com.
-- Muchos éxitos en sus metas✨.
