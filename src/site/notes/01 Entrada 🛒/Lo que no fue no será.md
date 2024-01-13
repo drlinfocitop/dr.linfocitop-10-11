@@ -27,7 +27,6 @@ y esto es un texto de tamaño 3
 </FONT>
 
 ## Letra
-<FONT SIZE= 3> 
 En tus manos yo aprendí a beber agua
 Fui gorrión que se quedo preso en tu jaula
 Porque yo corte mis alas y el alpiste que me dabas
@@ -52,8 +51,6 @@ Déjame encender la luz no quiero nada
 Si esto hubiera sido ayer lo tomaría
 La primera vez que ofreces para que yo aquí me quede
 Pero sin amarte ya qué ganaría
-</FONT> 
-
 ## Canción
 ```Markdown
 C                     Em        F
