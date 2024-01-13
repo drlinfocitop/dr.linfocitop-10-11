@@ -14,11 +14,8 @@ Em - A7 - Dm - G<br>
 
 <center>
 I-IIIm - IV - V - I
-
 VIm - IV - IIm - V
-
 I - IV - IIm - V
-
 IIIm - VI7 - IIm - V
 </center>
 
