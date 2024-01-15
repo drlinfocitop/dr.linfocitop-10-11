@@ -3,8 +3,11 @@
 ---
 
 ## Introducción
-- **Citogenética**: Rama de la biología en la que se utilizan técnicas citológicas y genéticas en investigaciones genéticas [^1].
-- Este capítulo revisa enfermedades causadas por alteraciones microscópicas observables en los cromosomas. Estas alteraciones pueden implicar la presencia de cromosomas adicionales o la pérdida de cromosomas. También pueden consistir en alteraciones estructurales de los cromosomas. Las anomalías cromosómicas se observan en aproximadamente 1 de cada 150 nacimientos vivos y son la principal causa conocida de retraso mental.
+- **Citogenética**: Rama de la biología en la que se utilizan técnicas citológicas y genéticas en investigaciones genéticas. [^2]
+- Este capítulo revisa enfermedades causadas por alteraciones microscópicas observables en los cromosomas.
+- Estas alteraciones pueden implicar la presencia de cromosomas adicionales o la pérdida de cromosomas.
+- También pueden consistir en alteraciones estructurales de los cromosomas. 
+- Las anomalías cromosómicas se observan en aproximadamente 1 de cada 150 nacimientos vivos y son la principal causa conocida de retraso mental.
 - La gran mayoría de los fetos con anomalías cromosómicas se pierden prenatalmente:
 	- se observan anomalías cromosómicas en el 50% de las pérdidas fetales espontáneas durante el primer trimestre del embarazo, y se observan en el 20% de los fetos perdidos durante el segundo trimestre. Por lo tanto, las anomalías cromosómicas son la principal causa conocida de pérdida durante el embarazo.
 
@@ -199,7 +202,7 @@ Aunque la segregación adyacente suele resultar en la pérdida del embarazo, una
 
 
 >[!example] Bibliografía
-> 1. [[Preclinical Biochemistry and Medical Genetics - Review 2023\|Preclinical Biochemistry and Medical Genetics - Review 2023]]
+> [^1]: [[Preclinical Biochemistry and Medical Genetics - Review 2023\|Preclinical Biochemistry and Medical Genetics - Review 2023]]
 > [^2]: [[Conceptos de genética 10ma Edición\|Conceptos de genética 10ma Edición]]
 
 
