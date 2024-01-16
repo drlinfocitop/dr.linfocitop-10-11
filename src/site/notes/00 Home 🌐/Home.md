@@ -20,8 +20,13 @@
 >[!danger]- **Linfo-regalos** 🎁 Drive ⬇
 > - *Posters anatómicos*
 
-<iframe style="height:100vh;width:100vw" frameBorder="0" src="https://widget.writesonic.com/CDN/index.html?service-base-url=https://api.botsonic.ai&token=4879daa5-57d3-4b17-97d3-a09d8a4b7456&base-origin=https://bot.writesonic.com&instance-name=Botsonic&standalone=true&page-url=https://bot.writesonic.com/1db6b005-61db-4002-a0ef-4f862f118caf?t=connect&workspace_id=f381dbcc-f49e-40a0-aaf0-ac14d2cac926" > </iframe>
 
+```xml
+<p style="text-align: center;">
+<iframe width="700" height="393" src="#" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</p>
+```
+<iframe style="height:100vh;width:100vw" frameBorder="0" src="https://widget.writesonic.com/CDN/index.html?service-base-url=https://api.botsonic.ai&token=4879daa5-57d3-4b17-97d3-a09d8a4b7456&base-origin=https://bot.writesonic.com&instance-name=Botsonic&standalone=true&page-url=https://bot.writesonic.com/1db6b005-61db-4002-a0ef-4f862f118caf?t=connect&workspace_id=f381dbcc-f49e-40a0-aaf0-ac14d2cac926" width="200" height="200" align="left"> </iframe>
 # Medicina Humana 👨‍⚕️
 
   
