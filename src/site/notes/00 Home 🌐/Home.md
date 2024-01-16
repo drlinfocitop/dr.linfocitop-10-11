@@ -23,6 +23,10 @@
 <iframe style="height:100vh;width:100vw" frameBorder="0" src="https://widget.writesonic.com/CDN/index.html?service-base-url=https://api.botsonic.ai&token=4879daa5-57d3-4b17-97d3-a09d8a4b7456&base-origin=https://bot.writesonic.com&instance-name=Botsonic&standalone=true&page-url=https://bot.writesonic.com/1db6b005-61db-4002-a0ef-4f862f118caf?t=connect&workspace_id=f381dbcc-f49e-40a0-aaf0-ac14d2cac926" > </iframe>
 
 # Medicina Humana 👨‍⚕️
+
+  
+<script> (function (w, d, s, o, f, js, fjs) { w["botsonic_widget"] = o; w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments); }; (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]); js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs); })(window, document, "script", "Botsonic", "https://widget.writesonic.com/CDN/botsonic.min.js"); Botsonic("init", { serviceBaseUrl: "https://api.botsonic.ai", token: "4879daa5-57d3-4b17-97d3-a09d8a4b7456", }); </script>
+
 ![baner-medicinah.png](/img/user/02%20Image/baner-medicinah.png)
 ### Ciencias básicas
 |                     Nivel 0 🥚                      |                      Nivel 1 🐣                       |                                   Nivel 2 🐤                                    |                                   Nivel 3 🦅                                    |
